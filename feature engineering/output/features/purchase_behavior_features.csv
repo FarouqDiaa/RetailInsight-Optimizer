@@ -1,0 +1,3901 @@
+"Customer ID","Segment","Cluster","Purchase_Frequency_Num","Frequency of Purchases","Discount_Sensitivity","Discount Applied","Promo Code Used","Subscription Status","Review Rating"
+1,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.1
+2,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.1
+3,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.1
+4,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.5
+5,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.7
+6,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.9
+7,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.2
+8,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.2
+9,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+10,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.8
+11,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.1
+12,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.9
+13,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.5
+14,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.7
+15,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.7
+16,"Segment 4",4,12,"Monthly",2,1,1,"Yes",2.8
+17,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.1
+18,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.7
+19,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.6
+20,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.3
+21,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.8
+22,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.1
+23,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.2
+24,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.4
+25,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.9
+26,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.6
+27,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.6
+28,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",5
+29,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.4
+30,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.1
+31,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.7
+32,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.7
+33,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+34,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.3
+35,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.6
+36,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4
+37,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.6
+38,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.8
+39,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",3.7
+40,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.2
+41,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.6
+42,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.5
+43,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.1
+44,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.7
+45,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.6
+46,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.9
+47,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.9
+48,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.5
+49,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.7
+50,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+51,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+52,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.7
+53,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.6
+54,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.9
+55,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+56,"Segment 2",2,1,"Annually",2,1,1,"Yes",3
+57,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.7
+58,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.4
+59,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.2
+60,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.6
+61,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4
+62,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.7
+63,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.8
+64,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.7
+65,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.8
+66,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.8
+67,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.7
+68,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.4
+69,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.9
+70,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.4
+71,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+72,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.9
+73,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.9
+74,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+75,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.5
+76,"Segment 4",4,1,"Annually",2,1,1,"Yes",2.7
+77,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.2
+78,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.3
+79,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.7
+80,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.6
+81,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.3
+82,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",2.6
+83,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4
+84,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.1
+85,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.4
+86,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.5
+87,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+88,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.7
+89,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.5
+90,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.6
+91,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.9
+92,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.6
+93,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.4
+94,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.5
+95,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.6
+96,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.8
+97,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.6
+98,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.8
+99,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+100,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.7
+101,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",2.7
+102,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+103,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.8
+104,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4
+105,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.4
+106,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.6
+107,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.7
+108,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.1
+109,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.4
+110,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",2.6
+111,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4
+112,"Segment 1",1,1,"Annually",2,1,1,"Yes",5
+113,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.3
+114,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.1
+115,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.7
+116,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.8
+117,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.4
+118,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.6
+119,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+120,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.3
+121,"Segment 4",4,1,"Annually",2,1,1,"Yes",4
+122,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.2
+123,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.8
+124,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.1
+125,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.1
+126,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.6
+127,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.9
+128,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.8
+129,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.7
+130,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+131,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.7
+132,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.9
+133,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.7
+134,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+135,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.9
+136,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.1
+137,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.3
+138,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.7
+139,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.4
+140,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.8
+141,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.9
+142,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.9
+143,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.1
+144,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.7
+145,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.2
+146,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.5
+147,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4
+148,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.5
+149,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+150,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.2
+151,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.9
+152,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.5
+153,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.3
+154,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.2
+155,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.6
+156,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.3
+157,"Segment 1",1,1,"Annually",2,1,1,"Yes",4
+158,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+159,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.1
+160,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.8
+161,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.6
+162,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+163,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3
+164,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.4
+165,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.6
+166,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.8
+167,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4
+168,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4
+169,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+170,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.3
+171,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+172,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.6
+173,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+174,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+175,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.5
+176,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.8
+177,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.7
+178,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.7
+179,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.3
+180,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.9
+181,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.3
+182,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.7
+183,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.8
+184,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.6
+185,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+186,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.5
+187,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.9
+188,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.3
+189,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.1
+190,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.4
+191,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3
+192,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.9
+193,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.9
+194,"Segment 3",3,1,"Annually",2,1,1,"Yes",3
+195,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.1
+196,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.3
+197,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.9
+198,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.2
+199,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.8
+200,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.8
+201,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.3
+202,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.3
+203,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.7
+204,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.2
+205,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4
+206,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3
+207,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.2
+208,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",2.9
+209,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.1
+210,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.2
+211,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+212,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.2
+213,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.2
+214,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.4
+215,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+216,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+217,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.7
+218,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.5
+219,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.9
+220,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+221,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.7
+222,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.4
+223,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.5
+224,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.8
+225,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",2.9
+226,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.2
+227,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.3
+228,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.2
+229,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.9
+230,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.6
+231,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.1
+232,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.1
+233,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+234,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.5
+235,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.7
+236,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+237,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.4
+238,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3
+239,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.2
+240,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.9
+241,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.5
+242,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.1
+243,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.3
+244,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.8
+245,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.9
+246,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.3
+247,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+248,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.4
+249,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.8
+250,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.2
+251,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4
+252,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+253,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.9
+254,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.9
+255,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+256,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.2
+257,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.7
+258,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.5
+259,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.8
+260,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.9
+261,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+262,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+263,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.7
+264,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.3
+265,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.9
+266,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+267,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.1
+268,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.9
+269,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.6
+270,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.3
+271,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.6
+272,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.6
+273,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+274,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.2
+275,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3
+276,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4
+277,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.5
+278,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3
+279,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.7
+280,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4
+281,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+282,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.5
+283,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3
+284,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.2
+285,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.5
+286,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+287,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+288,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.4
+289,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+290,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.5
+291,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.7
+292,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.3
+293,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.7
+294,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.7
+295,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.6
+296,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.7
+297,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.8
+298,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+299,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4
+300,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.2
+301,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.4
+302,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.8
+303,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.6
+304,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.3
+305,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.4
+306,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.5
+307,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.6
+308,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+309,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+310,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.5
+311,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.6
+312,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.1
+313,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+314,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.7
+315,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.3
+316,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.5
+317,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.3
+318,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.3
+319,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+320,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.6
+321,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.9
+322,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.7
+323,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3
+324,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+325,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.8
+326,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.3
+327,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.2
+328,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.1
+329,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.8
+330,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.9
+331,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+332,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.3
+333,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.8
+334,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.5
+335,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+336,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.7
+337,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.4
+338,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.3
+339,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.5
+340,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.8
+341,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.5
+342,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+343,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.6
+344,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.4
+345,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4
+346,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.4
+347,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.7
+348,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.9
+349,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.7
+350,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+351,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.6
+352,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+353,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.9
+354,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.1
+355,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3
+356,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.1
+357,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.8
+358,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4
+359,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.6
+360,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3
+361,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+362,"Segment 4",4,1,"Annually",2,1,1,"Yes",2.6
+363,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.4
+364,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.1
+365,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3
+366,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+367,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.5
+368,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.8
+369,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.5
+370,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.3
+371,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.4
+372,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.2
+373,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.7
+374,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+375,"Segment 4",4,12,"Monthly",2,1,1,"Yes",5
+376,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.4
+377,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.9
+378,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.1
+379,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.9
+380,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.7
+381,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3
+382,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.4
+383,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.2
+384,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.9
+385,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.5
+386,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+387,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.4
+388,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.6
+389,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.7
+390,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.2
+391,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.2
+392,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.8
+393,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.3
+394,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.2
+395,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+396,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+397,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.9
+398,"Segment 3",3,1,"Annually",2,1,1,"Yes",3
+399,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.6
+400,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.5
+401,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.8
+402,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.8
+403,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3
+404,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.5
+405,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.8
+406,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.8
+407,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.6
+408,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.1
+409,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.4
+410,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.3
+411,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.8
+412,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.8
+413,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.1
+414,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.6
+415,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.6
+416,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.6
+417,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.8
+418,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.5
+419,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3
+420,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.5
+421,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.8
+422,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+423,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.1
+424,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3
+425,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.3
+426,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.3
+427,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.7
+428,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.5
+429,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.9
+430,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.1
+431,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.5
+432,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.4
+433,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.3
+434,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.2
+435,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4
+436,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.6
+437,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.6
+438,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.6
+439,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.3
+440,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.4
+441,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.5
+442,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.2
+443,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.5
+444,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.6
+445,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.3
+446,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+447,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.1
+448,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.6
+449,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.4
+450,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.9
+451,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.7
+452,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.3
+453,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.3
+454,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.8
+455,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+456,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.6
+457,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4
+458,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.9
+459,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4
+460,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.8
+461,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.7
+462,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.9
+463,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.3
+464,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.7
+465,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.7
+466,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",2.8
+467,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.6
+468,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.5
+469,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",5
+470,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.1
+471,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.6
+472,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.9
+473,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.9
+474,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",3.9
+475,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.6
+476,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.7
+477,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.5
+478,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.7
+479,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.2
+480,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.3
+481,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+482,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.2
+483,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+484,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.9
+485,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.7
+486,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.6
+487,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.8
+488,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.4
+489,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.6
+490,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.2
+491,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.2
+492,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+493,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.9
+494,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.7
+495,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.5
+496,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.3
+497,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.3
+498,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.6
+499,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.6
+500,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.8
+501,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.8
+502,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.9
+503,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.8
+504,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.2
+505,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.9
+506,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.3
+507,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.7
+508,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",5
+509,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.7
+510,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.9
+511,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.9
+512,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.1
+513,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.3
+514,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.6
+515,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.3
+516,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.5
+517,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+518,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.7
+519,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.9
+520,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.4
+521,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.9
+522,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.5
+523,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",2.5
+524,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.9
+525,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.8
+526,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.2
+527,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.9
+528,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.3
+529,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.2
+530,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.7
+531,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+532,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.4
+533,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.1
+534,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.5
+535,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.5
+536,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.2
+537,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.4
+538,"Segment 2",2,1,"Annually",2,1,1,"Yes",3
+539,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.2
+540,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4
+541,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.1
+542,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+543,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+544,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.3
+545,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.3
+546,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.5
+547,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.4
+548,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.8
+549,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.6
+550,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+551,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.3
+552,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.1
+553,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.5
+554,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.2
+555,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3
+556,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.8
+557,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",5
+558,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.9
+559,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.2
+560,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.9
+561,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.3
+562,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.6
+563,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.5
+564,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.4
+565,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.4
+566,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.2
+567,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.6
+568,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+569,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4
+570,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.4
+571,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.1
+572,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.6
+573,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.6
+574,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+575,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+576,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.8
+577,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",5
+578,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.7
+579,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.6
+580,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.7
+581,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.1
+582,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.7
+583,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.9
+584,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4
+585,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.7
+586,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.8
+587,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+588,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+589,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3
+590,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+591,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.6
+592,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+593,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.2
+594,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.4
+595,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.5
+596,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.6
+597,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.5
+598,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.4
+599,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+600,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.2
+601,"Segment 1",1,12,"Monthly",2,1,1,"Yes",5
+602,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.7
+603,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+604,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.4
+605,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.4
+606,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.2
+607,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.5
+608,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.8
+609,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.3
+610,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.6
+611,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.5
+612,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.7
+613,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.6
+614,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+615,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4
+616,"Segment 4",4,1,"Annually",2,1,1,"Yes",2.6
+617,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.6
+618,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.6
+619,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4
+620,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.6
+621,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.7
+622,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.4
+623,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4
+624,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.7
+625,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.4
+626,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4
+627,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.9
+628,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.1
+629,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.7
+630,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.7
+631,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.3
+632,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.1
+633,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.9
+634,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.9
+635,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.9
+636,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.3
+637,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.8
+638,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.4
+639,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.7
+640,"Segment 2",2,1,"Annually",2,1,1,"Yes",4
+641,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.4
+642,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.9
+643,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+644,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+645,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.3
+646,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+647,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.9
+648,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.7
+649,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.1
+650,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.2
+651,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.9
+652,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.9
+653,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.1
+654,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.6
+655,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.4
+656,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.1
+657,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.9
+658,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.3
+659,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.9
+660,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.6
+661,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",5
+662,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.1
+663,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+664,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.7
+665,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+666,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.9
+667,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.1
+668,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.6
+669,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.9
+670,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.3
+671,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+672,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.7
+673,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.3
+674,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+675,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.7
+676,"Segment 4",4,1,"Annually",2,1,1,"Yes",2.6
+677,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.9
+678,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.7
+679,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.3
+680,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.4
+681,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.2
+682,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",3.8
+683,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4
+684,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.7
+685,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.7
+686,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",3.5
+687,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+688,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.3
+689,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.7
+690,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.7
+691,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.8
+692,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.9
+693,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4
+694,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.1
+695,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.5
+696,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.7
+697,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.8
+698,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.6
+699,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.8
+700,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.6
+701,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.1
+702,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.3
+703,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.4
+704,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3
+705,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.2
+706,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.5
+707,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.8
+708,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.7
+709,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.4
+710,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.6
+711,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.1
+712,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+713,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.8
+714,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+715,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.4
+716,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.6
+717,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+718,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+719,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.6
+720,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.3
+721,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.4
+722,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.4
+723,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.3
+724,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.5
+725,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.7
+726,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.1
+727,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.6
+728,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.8
+729,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.7
+730,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+731,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.9
+732,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.5
+733,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+734,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+735,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.1
+736,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+737,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.9
+738,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.6
+739,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.5
+740,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+741,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.8
+742,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.7
+743,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.1
+744,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.9
+745,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.1
+746,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.7
+747,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+748,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.4
+749,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.9
+750,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+751,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+752,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.8
+753,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.2
+754,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.4
+755,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.9
+756,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.3
+757,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.8
+758,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.8
+759,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.6
+760,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.6
+761,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+762,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.2
+763,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.9
+764,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.9
+765,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.2
+766,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3
+767,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.6
+768,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+769,"Segment 4",4,52,"Weekly",2,1,1,"Yes",2.6
+770,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.3
+771,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.3
+772,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.6
+773,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+774,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+775,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.5
+776,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3
+777,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",5
+778,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.5
+779,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.9
+780,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.6
+781,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.6
+782,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+783,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.5
+784,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.5
+785,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+786,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4
+787,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",4.8
+788,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.7
+789,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.8
+790,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+791,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.9
+792,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.1
+793,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.2
+794,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.8
+795,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.2
+796,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.6
+797,"Segment 4",4,1,"Annually",2,1,1,"Yes",4
+798,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4
+799,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",3.8
+800,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.3
+801,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.6
+802,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.9
+803,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.5
+804,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.8
+805,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.6
+806,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.7
+807,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.7
+808,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.3
+809,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.6
+810,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.9
+811,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.9
+812,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.7
+813,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.2
+814,"Segment 2",2,1,"Annually",2,1,1,"Yes",2.9
+815,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.8
+816,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3
+817,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.9
+818,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.7
+819,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.9
+820,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.8
+821,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.5
+822,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+823,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.4
+824,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.5
+825,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3
+826,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.6
+827,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.6
+828,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.1
+829,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.7
+830,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.1
+831,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.2
+832,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.3
+833,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.5
+834,"Segment 3",3,1,"Annually",2,1,1,"Yes",3.5
+835,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.1
+836,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.5
+837,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+838,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.9
+839,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.3
+840,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.6
+841,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.2
+842,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.6
+843,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.6
+844,"Segment 4",4,52,"Weekly",2,1,1,"Yes",3.2
+845,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+846,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.7
+847,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+848,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.1
+849,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+850,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.3
+851,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.6
+852,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.9
+853,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.2
+854,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4
+855,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.3
+856,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3
+857,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.5
+858,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3
+859,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.1
+860,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4
+861,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.1
+862,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.3
+863,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.9
+864,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.9
+865,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.9
+866,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.8
+867,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+868,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.1
+869,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.2
+870,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.7
+871,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",2.5
+872,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.6
+873,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.9
+874,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.2
+875,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.4
+876,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.1
+877,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.8
+878,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.9
+879,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.9
+880,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",4.1
+881,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.1
+882,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.7
+883,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.8
+884,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.3
+885,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.1
+886,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.4
+887,"Segment 1",1,12,"Monthly",2,1,1,"Yes",3.6
+888,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.3
+889,"Segment 4",4,1,"Annually",2,1,1,"Yes",3.6
+890,"Segment 4",4,52,"Weekly",2,1,1,"Yes",2.8
+891,"Segment 2",2,12,"Monthly",2,1,1,"Yes",4.3
+892,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",3.9
+893,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.7
+894,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.7
+895,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.8
+896,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.7
+897,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.7
+898,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3.4
+899,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.5
+900,"Segment 2",2,1,"Annually",2,1,1,"Yes",4
+901,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.3
+902,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.7
+903,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.8
+904,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.3
+905,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",2.9
+906,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.8
+907,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.2
+908,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+909,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.6
+910,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.7
+911,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.4
+912,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.8
+913,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.4
+914,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",2.6
+915,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.1
+916,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.9
+917,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.7
+918,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+919,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.3
+920,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+921,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.3
+922,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.1
+923,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.2
+924,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.2
+925,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.1
+926,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.9
+927,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+928,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+929,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.4
+930,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.5
+931,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.5
+932,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.1
+933,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+934,"Segment 4",4,12,"Monthly",2,1,1,"Yes",2.7
+935,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.7
+936,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.6
+937,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.7
+938,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.7
+939,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.8
+940,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.8
+941,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",2.6
+942,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.5
+943,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.2
+944,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",3.8
+945,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4.8
+946,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.1
+947,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.8
+948,"Segment 2",2,NA,"Every 3 Months",2,1,1,"Yes",3.9
+949,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4.9
+950,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.4
+951,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4.1
+952,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.9
+953,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.1
+954,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.6
+955,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.5
+956,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.4
+957,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",2.9
+958,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.7
+959,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",4.4
+960,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.6
+961,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.4
+962,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.7
+963,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.4
+964,"Segment 3",3,52,"Weekly",2,1,1,"Yes",2.5
+965,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.6
+966,"Segment 1",1,1,"Annually",2,1,1,"Yes",5
+967,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.9
+968,"Segment 1",1,52,"Weekly",2,1,1,"Yes",3.7
+969,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.1
+970,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.2
+971,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.4
+972,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.3
+973,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3
+974,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.5
+975,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.6
+976,"Segment 2",2,52,"Weekly",2,1,1,"Yes",3.8
+977,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.6
+978,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",4.6
+979,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.5
+980,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.5
+981,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",4
+982,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",3.5
+983,"Segment 3",3,12,"Monthly",2,1,1,"Yes",3.2
+984,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+985,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",3.4
+986,"Segment 1",1,1,"Annually",2,1,1,"Yes",5
+987,"Segment 4",4,12,"Monthly",2,1,1,"Yes",4.5
+988,"Segment 2",2,52,"Weekly",2,1,1,"Yes",2.8
+989,"Segment 4",4,26,"Fortnightly",2,1,1,"Yes",4.9
+990,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.1
+991,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.8
+992,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.7
+993,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.6
+994,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.4
+995,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.2
+996,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3
+997,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.9
+998,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.6
+999,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.8
+1000,"Segment 2",2,12,"Monthly",2,1,1,"Yes",2.9
+1001,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+1002,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.6
+1003,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+1004,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",4
+1005,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.8
+1006,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.9
+1007,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.5
+1008,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.8
+1009,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+1010,"Segment 2",2,1,"Annually",2,1,1,"Yes",3.1
+1011,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4.7
+1012,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",2.9
+1013,"Segment 1",1,1,"Annually",2,1,1,"Yes",3.8
+1014,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.8
+1015,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3
+1016,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.1
+1017,"Segment 3",3,NA,"Every 3 Months",2,1,1,"Yes",3.4
+1018,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.5
+1019,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.9
+1020,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"Yes",2.8
+1021,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.5
+1022,"Segment 1",1,52,"Weekly",2,1,1,"Yes",4.9
+1023,"Segment 2",2,1,"Annually",2,1,1,"Yes",4.9
+1024,"Segment 4",4,NA,"Every 3 Months",2,1,1,"Yes",3.5
+1025,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.5
+1026,"Segment 4",4,1,"Annually",2,1,1,"Yes",4.9
+1027,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3
+1028,"Segment 3",3,12,"Monthly",2,1,1,"Yes",2.8
+1029,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3.7
+1030,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"Yes",3.6
+1031,"Segment 4",4,4,"Quarterly",2,1,1,"Yes",3.3
+1032,"Segment 3",3,4,"Quarterly",2,1,1,"Yes",3.4
+1033,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",4
+1034,"Segment 1",1,4,"Quarterly",2,1,1,"Yes",4.6
+1035,"Segment 2",2,52,"Weekly",2,1,1,"Yes",4.2
+1036,"Segment 4",4,1,"Annually",2,1,1,"Yes",2.8
+1037,"Segment 2",2,12,"Monthly",2,1,1,"Yes",3.7
+1038,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",3.4
+1039,"Segment 3",3,52,"Weekly",2,1,1,"Yes",3
+1040,"Segment 1",1,12,"Monthly",2,1,1,"Yes",4.8
+1041,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",4
+1042,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.9
+1043,"Segment 4",4,52,"Weekly",2,1,1,"Yes",4.9
+1044,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",3.3
+1045,"Segment 1",1,NA,"Every 3 Months",2,1,1,"Yes",4.4
+1046,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"Yes",3.5
+1047,"Segment 1",1,1,"Annually",2,1,1,"Yes",4.2
+1048,"Segment 1",1,26,"Fortnightly",2,1,1,"Yes",4.2
+1049,"Segment 3",3,26,"Fortnightly",2,1,1,"Yes",2.7
+1050,"Segment 2",2,4,"Quarterly",2,1,1,"Yes",2.8
+1051,"Segment 4",4,12,"Monthly",2,1,1,"Yes",3.8
+1052,"Segment 3",3,1,"Annually",2,1,1,"Yes",2.6
+1053,"Segment 2",2,26,"Fortnightly",2,1,1,"Yes",3
+1054,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.3
+1055,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.9
+1056,"Segment 2",2,1,"Annually",2,1,1,"No",3.3
+1057,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.9
+1058,"Segment 2",2,52,"Weekly",2,1,1,"No",4.4
+1059,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.1
+1060,"Segment 3",3,12,"Monthly",2,1,1,"No",2.5
+1061,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.6
+1062,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1063,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.6
+1064,"Segment 2",2,12,"Monthly",2,1,1,"No",3.3
+1065,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.5
+1066,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.1
+1067,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4
+1068,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1069,"Segment 4",4,52,"Weekly",2,1,1,"No",2.5
+1070,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.3
+1071,"Segment 4",4,52,"Weekly",2,1,1,"No",3.3
+1072,"Segment 4",4,12,"Monthly",2,1,1,"No",2.6
+1073,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.5
+1074,"Segment 1",1,12,"Monthly",2,1,1,"No",4
+1075,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.6
+1076,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.9
+1077,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.9
+1078,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.7
+1079,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.4
+1080,"Segment 1",1,12,"Monthly",2,1,1,"No",4.4
+1081,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.8
+1082,"Segment 2",2,1,"Annually",2,1,1,"No",4.5
+1083,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.6
+1084,"Segment 3",3,52,"Weekly",2,1,1,"No",3.3
+1085,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.1
+1086,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3
+1087,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3
+1088,"Segment 3",3,12,"Monthly",2,1,1,"No",3.4
+1089,"Segment 2",2,52,"Weekly",2,1,1,"No",2.7
+1090,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",3.8
+1091,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.2
+1092,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.7
+1093,"Segment 2",2,4,"Quarterly",2,1,1,"No",4.1
+1094,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.2
+1095,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.8
+1096,"Segment 3",3,4,"Quarterly",2,1,1,"No",3
+1097,"Segment 2",2,1,"Annually",2,1,1,"No",2.6
+1098,"Segment 2",2,52,"Weekly",2,1,1,"No",3.2
+1099,"Segment 4",4,52,"Weekly",2,1,1,"No",3.6
+1100,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.6
+1101,"Segment 2",2,52,"Weekly",2,1,1,"No",4.4
+1102,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3
+1103,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.9
+1104,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.3
+1105,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.1
+1106,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3
+1107,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.6
+1108,"Segment 2",2,52,"Weekly",2,1,1,"No",2.8
+1109,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.8
+1110,"Segment 4",4,52,"Weekly",2,1,1,"No",4.9
+1111,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3
+1112,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.1
+1113,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.6
+1114,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.8
+1115,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",2.6
+1116,"Segment 1",1,52,"Weekly",2,1,1,"No",4
+1117,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4.2
+1118,"Segment 1",1,12,"Monthly",2,1,1,"No",4.5
+1119,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.9
+1120,"Segment 3",3,52,"Weekly",2,1,1,"No",3.1
+1121,"Segment 1",1,12,"Monthly",2,1,1,"No",4
+1122,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.2
+1123,"Segment 4",4,1,"Annually",2,1,1,"No",4.3
+1124,"Segment 3",3,12,"Monthly",2,1,1,"No",2.5
+1125,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.9
+1126,"Segment 3",3,52,"Weekly",2,1,1,"No",2.7
+1127,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.4
+1128,"Segment 1",1,12,"Monthly",2,1,1,"No",4.8
+1129,"Segment 2",2,12,"Monthly",2,1,1,"No",4.7
+1130,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.7
+1131,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.9
+1132,"Segment 4",4,12,"Monthly",2,1,1,"No",3.7
+1133,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4.3
+1134,"Segment 1",1,52,"Weekly",2,1,1,"No",4.1
+1135,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.6
+1136,"Segment 4",4,4,"Quarterly",2,1,1,"No",3.6
+1137,"Segment 1",1,12,"Monthly",2,1,1,"No",4.8
+1138,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.8
+1139,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.7
+1140,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.9
+1141,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.6
+1142,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.7
+1143,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.5
+1144,"Segment 2",2,4,"Quarterly",2,1,1,"No",4.4
+1145,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.4
+1146,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3
+1147,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.2
+1148,"Segment 2",2,1,"Annually",2,1,1,"No",4.3
+1149,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.6
+1150,"Segment 3",3,1,"Annually",2,1,1,"No",3.3
+1151,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.7
+1152,"Segment 4",4,52,"Weekly",2,1,1,"No",4.2
+1153,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4
+1154,"Segment 1",1,4,"Quarterly",2,1,1,"No",4
+1155,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.9
+1156,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.6
+1157,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.8
+1158,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.4
+1159,"Segment 4",4,1,"Annually",2,1,1,"No",4
+1160,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.6
+1161,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.2
+1162,"Segment 2",2,12,"Monthly",2,1,1,"No",3.1
+1163,"Segment 4",4,52,"Weekly",2,1,1,"No",4.2
+1164,"Segment 3",3,12,"Monthly",2,1,1,"No",3
+1165,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.2
+1166,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.9
+1167,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.7
+1168,"Segment 4",4,4,"Quarterly",2,1,1,"No",3.6
+1169,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.6
+1170,"Segment 1",1,1,"Annually",2,1,1,"No",4.5
+1171,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.2
+1172,"Segment 1",1,1,"Annually",2,1,1,"No",3.9
+1173,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.6
+1174,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.5
+1175,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.3
+1176,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.1
+1177,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.6
+1178,"Segment 2",2,12,"Monthly",2,1,1,"No",4.8
+1179,"Segment 1",1,1,"Annually",2,1,1,"No",4.9
+1180,"Segment 3",3,1,"Annually",2,1,1,"No",2.8
+1181,"Segment 1",1,12,"Monthly",2,1,1,"No",4.9
+1182,"Segment 4",4,4,"Quarterly",2,1,1,"No",3.5
+1183,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.8
+1184,"Segment 1",1,52,"Weekly",2,1,1,"No",4.5
+1185,"Segment 4",4,1,"Annually",2,1,1,"No",3.4
+1186,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1187,"Segment 4",4,1,"Annually",2,1,1,"No",4.1
+1188,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3
+1189,"Segment 2",2,52,"Weekly",2,1,1,"No",3.3
+1190,"Segment 4",4,1,"Annually",2,1,1,"No",4.9
+1191,"Segment 2",2,52,"Weekly",2,1,1,"No",4.3
+1192,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.1
+1193,"Segment 2",2,4,"Quarterly",2,1,1,"No",4
+1194,"Segment 1",1,26,"Fortnightly",2,1,1,"No",5
+1195,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.1
+1196,"Segment 1",1,12,"Monthly",2,1,1,"No",4
+1197,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.2
+1198,"Segment 4",4,1,"Annually",2,1,1,"No",3.9
+1199,"Segment 1",1,1,"Annually",2,1,1,"No",3.9
+1200,"Segment 4",4,52,"Weekly",2,1,1,"No",4.5
+1201,"Segment 1",1,52,"Weekly",2,1,1,"No",4.4
+1202,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.1
+1203,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",2.9
+1204,"Segment 4",4,1,"Annually",2,1,1,"No",3.7
+1205,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.2
+1206,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.5
+1207,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3
+1208,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.1
+1209,"Segment 3",3,1,"Annually",2,1,1,"No",2.9
+1210,"Segment 1",1,12,"Monthly",2,1,1,"No",3.8
+1211,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.1
+1212,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.6
+1213,"Segment 3",3,52,"Weekly",2,1,1,"No",2.5
+1214,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.7
+1215,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.8
+1216,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",2.6
+1217,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.7
+1218,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.6
+1219,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.1
+1220,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.5
+1221,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.9
+1222,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.5
+1223,"Segment 4",4,1,"Annually",2,1,1,"No",3.4
+1224,"Segment 2",2,52,"Weekly",2,1,1,"No",3.9
+1225,"Segment 2",2,52,"Weekly",2,1,1,"No",3.7
+1226,"Segment 3",3,52,"Weekly",2,1,1,"No",2.6
+1227,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.4
+1228,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.9
+1229,"Segment 2",2,1,"Annually",2,1,1,"No",3.9
+1230,"Segment 3",3,1,"Annually",2,1,1,"No",3.6
+1231,"Segment 1",1,12,"Monthly",2,1,1,"No",4.6
+1232,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4
+1233,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.6
+1234,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.5
+1235,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.1
+1236,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3
+1237,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1238,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.4
+1239,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.7
+1240,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.8
+1241,"Segment 3",3,1,"Annually",2,1,1,"No",2.9
+1242,"Segment 2",2,52,"Weekly",2,1,1,"No",3.1
+1243,"Segment 2",2,4,"Quarterly",2,1,1,"No",4
+1244,"Segment 3",3,1,"Annually",2,1,1,"No",3
+1245,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1246,"Segment 2",2,52,"Weekly",2,1,1,"No",3.4
+1247,"Segment 3",3,12,"Monthly",2,1,1,"No",2.7
+1248,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.5
+1249,"Segment 2",2,1,"Annually",2,1,1,"No",3
+1250,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4.5
+1251,"Segment 2",2,12,"Monthly",2,1,1,"No",4.1
+1252,"Segment 4",4,12,"Monthly",2,1,1,"No",5
+1253,"Segment 1",1,4,"Quarterly",2,1,1,"No",4
+1254,"Segment 1",1,1,"Annually",2,1,1,"No",4.9
+1255,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.3
+1256,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.1
+1257,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.6
+1258,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3
+1259,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.1
+1260,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1261,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.1
+1262,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.8
+1263,"Segment 1",1,12,"Monthly",2,1,1,"No",4.8
+1264,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.6
+1265,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.5
+1266,"Segment 3",3,52,"Weekly",2,1,1,"No",2.7
+1267,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4
+1268,"Segment 3",3,52,"Weekly",2,1,1,"No",2.7
+1269,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.9
+1270,"Segment 2",2,4,"Quarterly",2,1,1,"No",3
+1271,"Segment 4",4,1,"Annually",2,1,1,"No",3.3
+1272,"Segment 4",4,1,"Annually",2,1,1,"No",4.3
+1273,"Segment 1",1,12,"Monthly",2,1,1,"No",4.4
+1274,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.1
+1275,"Segment 4",4,4,"Quarterly",2,1,1,"No",3.1
+1276,"Segment 2",2,12,"Monthly",2,1,1,"No",4.5
+1277,"Segment 4",4,52,"Weekly",2,1,1,"No",4.8
+1278,"Segment 1",1,4,"Quarterly",2,1,1,"No",5
+1279,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.8
+1280,"Segment 2",2,1,"Annually",2,1,1,"No",3.7
+1281,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1282,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.5
+1283,"Segment 3",3,12,"Monthly",2,1,1,"No",3
+1284,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.9
+1285,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.9
+1286,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.5
+1287,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.9
+1288,"Segment 3",3,12,"Monthly",2,1,1,"No",3.4
+1289,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.1
+1290,"Segment 3",3,52,"Weekly",2,1,1,"No",2.9
+1291,"Segment 2",2,1,"Annually",2,1,1,"No",3.4
+1292,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.2
+1293,"Segment 1",1,1,"Annually",2,1,1,"No",3.9
+1294,"Segment 1",1,1,"Annually",2,1,1,"No",4.1
+1295,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.5
+1296,"Segment 3",3,52,"Weekly",2,1,1,"No",2.8
+1297,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",2.8
+1298,"Segment 4",4,1,"Annually",2,1,1,"No",4.6
+1299,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3
+1300,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",3.6
+1301,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.5
+1302,"Segment 1",1,52,"Weekly",2,1,1,"No",5
+1303,"Segment 3",3,12,"Monthly",2,1,1,"No",2.9
+1304,"Segment 3",3,1,"Annually",2,1,1,"No",3.1
+1305,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4
+1306,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.5
+1307,"Segment 2",2,1,"Annually",2,1,1,"No",4.5
+1308,"Segment 3",3,1,"Annually",2,1,1,"No",3.1
+1309,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.4
+1310,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.7
+1311,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.1
+1312,"Segment 1",1,1,"Annually",2,1,1,"No",4.2
+1313,"Segment 4",4,12,"Monthly",2,1,1,"No",3
+1314,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",2.6
+1315,"Segment 3",3,1,"Annually",2,1,1,"No",3.4
+1316,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.2
+1317,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.6
+1318,"Segment 3",3,12,"Monthly",2,1,1,"No",2.8
+1319,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.7
+1320,"Segment 2",2,52,"Weekly",2,1,1,"No",4
+1321,"Segment 2",2,1,"Annually",2,1,1,"No",3.1
+1322,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.7
+1323,"Segment 1",1,4,"Quarterly",2,1,1,"No",4
+1324,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.6
+1325,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.8
+1326,"Segment 3",3,12,"Monthly",2,1,1,"No",3.5
+1327,"Segment 1",1,12,"Monthly",2,1,1,"No",4.6
+1328,"Segment 2",2,52,"Weekly",2,1,1,"No",2.8
+1329,"Segment 4",4,52,"Weekly",2,1,1,"No",3.7
+1330,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.3
+1331,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.9
+1332,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.2
+1333,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.3
+1334,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1335,"Segment 1",1,12,"Monthly",2,1,1,"No",4.2
+1336,"Segment 1",1,52,"Weekly",2,1,1,"No",4.8
+1337,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.8
+1338,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.4
+1339,"Segment 2",2,26,"Fortnightly",2,1,1,"No",2.6
+1340,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",5
+1341,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1342,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.9
+1343,"Segment 2",2,12,"Monthly",2,1,1,"No",3.4
+1344,"Segment 2",2,12,"Monthly",2,1,1,"No",3.4
+1345,"Segment 1",1,1,"Annually",2,1,1,"No",4.9
+1346,"Segment 2",2,52,"Weekly",2,1,1,"No",3.6
+1347,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3
+1348,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1349,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.2
+1350,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.2
+1351,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.3
+1352,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.8
+1353,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.5
+1354,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.1
+1355,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.6
+1356,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3
+1357,"Segment 4",4,1,"Annually",2,1,1,"No",4
+1358,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.5
+1359,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.5
+1360,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.3
+1361,"Segment 2",2,1,"Annually",2,1,1,"No",2.8
+1362,"Segment 2",2,12,"Monthly",2,1,1,"No",3.7
+1363,"Segment 1",1,52,"Weekly",2,1,1,"No",4.3
+1364,"Segment 4",4,4,"Quarterly",2,1,1,"No",4
+1365,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.7
+1366,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.5
+1367,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.1
+1368,"Segment 4",4,4,"Quarterly",2,1,1,"No",3.8
+1369,"Segment 1",1,52,"Weekly",2,1,1,"No",4.9
+1370,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.2
+1371,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.9
+1372,"Segment 3",3,12,"Monthly",2,1,1,"No",2.8
+1373,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4
+1374,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.6
+1375,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1376,"Segment 1",1,1,"Annually",2,1,1,"No",4.1
+1377,"Segment 4",4,1,"Annually",2,1,1,"No",5
+1378,"Segment 3",3,12,"Monthly",2,1,1,"No",3
+1379,"Segment 3",3,52,"Weekly",2,1,1,"No",3.6
+1380,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.8
+1381,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4.6
+1382,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.9
+1383,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.8
+1384,"Segment 3",3,12,"Monthly",2,1,1,"No",3.3
+1385,"Segment 4",4,52,"Weekly",2,1,1,"No",4.6
+1386,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.6
+1387,"Segment 2",2,4,"Quarterly",2,1,1,"No",4
+1388,"Segment 3",3,12,"Monthly",2,1,1,"No",3.8
+1389,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.9
+1390,"Segment 3",3,26,"Fortnightly",2,1,1,"No",2.6
+1391,"Segment 1",1,52,"Weekly",2,1,1,"No",4.3
+1392,"Segment 2",2,1,"Annually",2,1,1,"No",3.6
+1393,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.2
+1394,"Segment 1",1,26,"Fortnightly",2,1,1,"No",3.9
+1395,"Segment 1",1,52,"Weekly",2,1,1,"No",4.7
+1396,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",2.8
+1397,"Segment 2",2,12,"Monthly",2,1,1,"No",3
+1398,"Segment 4",4,1,"Annually",2,1,1,"No",4.7
+1399,"Segment 3",3,52,"Weekly",2,1,1,"No",2.5
+1400,"Segment 3",3,1,"Annually",2,1,1,"No",3.1
+1401,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.6
+1402,"Segment 3",3,52,"Weekly",2,1,1,"No",3.5
+1403,"Segment 2",2,12,"Monthly",2,1,1,"No",3.1
+1404,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",3.6
+1405,"Segment 2",2,52,"Weekly",2,1,1,"No",3.5
+1406,"Segment 3",3,12,"Monthly",2,1,1,"No",2.7
+1407,"Segment 3",3,12,"Monthly",2,1,1,"No",3.6
+1408,"Segment 4",4,1,"Annually",2,1,1,"No",4.5
+1409,"Segment 4",4,52,"Weekly",2,1,1,"No",4.1
+1410,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.2
+1411,"Segment 4",4,1,"Annually",2,1,1,"No",4
+1412,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.8
+1413,"Segment 3",3,1,"Annually",2,1,1,"No",2.6
+1414,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1415,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.5
+1416,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.7
+1417,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.4
+1418,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4.6
+1419,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.1
+1420,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.6
+1421,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.6
+1422,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3
+1423,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.4
+1424,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.5
+1425,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.5
+1426,"Segment 2",2,1,"Annually",2,1,1,"No",3.7
+1427,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.8
+1428,"Segment 1",1,1,"Annually",2,1,1,"No",4.9
+1429,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.9
+1430,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.7
+1431,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.9
+1432,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.9
+1433,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.4
+1434,"Segment 2",2,52,"Weekly",2,1,1,"No",3.2
+1435,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.6
+1436,"Segment 4",4,52,"Weekly",2,1,1,"No",4
+1437,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.7
+1438,"Segment 4",4,1,"Annually",2,1,1,"No",4.2
+1439,"Segment 2",2,12,"Monthly",2,1,1,"No",2.9
+1440,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.8
+1441,"Segment 1",1,12,"Monthly",2,1,1,"No",4.4
+1442,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.4
+1443,"Segment 4",4,1,"Annually",2,1,1,"No",2.8
+1444,"Segment 2",2,12,"Monthly",2,1,1,"No",4.2
+1445,"Segment 1",1,4,"Quarterly",2,1,1,"No",3.8
+1446,"Segment 2",2,1,"Annually",2,1,1,"No",3.1
+1447,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.2
+1448,"Segment 3",3,12,"Monthly",2,1,1,"No",3
+1449,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.6
+1450,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.5
+1451,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.4
+1452,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.5
+1453,"Segment 2",2,4,"Quarterly",2,1,1,"No",4.7
+1454,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.2
+1455,"Segment 2",2,1,"Annually",2,1,1,"No",2.9
+1456,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.9
+1457,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",2.7
+1458,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4.7
+1459,"Segment 2",2,52,"Weekly",2,1,1,"No",2.9
+1460,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.8
+1461,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.6
+1462,"Segment 4",4,4,"Quarterly",2,1,1,"No",5
+1463,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.8
+1464,"Segment 1",1,12,"Monthly",2,1,1,"No",4.9
+1465,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.6
+1466,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.9
+1467,"Segment 4",4,1,"Annually",2,1,1,"No",4.5
+1468,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.7
+1469,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.9
+1470,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1471,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.9
+1472,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.8
+1473,"Segment 2",2,52,"Weekly",2,1,1,"No",3.5
+1474,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",4.3
+1475,"Segment 1",1,12,"Monthly",2,1,1,"No",3.9
+1476,"Segment 1",1,12,"Monthly",2,1,1,"No",4
+1477,"Segment 1",1,12,"Monthly",2,1,1,"No",4.1
+1478,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.3
+1479,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.2
+1480,"Segment 4",4,52,"Weekly",2,1,1,"No",4
+1481,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.6
+1482,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.3
+1483,"Segment 1",1,52,"Weekly",2,1,1,"No",4.1
+1484,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.7
+1485,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1486,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.4
+1487,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",5
+1488,"Segment 1",1,1,"Annually",2,1,1,"No",4.6
+1489,"Segment 1",1,52,"Weekly",2,1,1,"No",4
+1490,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.1
+1491,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.9
+1492,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1493,"Segment 2",2,4,"Quarterly",2,1,1,"No",4.5
+1494,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.7
+1495,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3
+1496,"Segment 1",1,52,"Weekly",2,1,1,"No",4.5
+1497,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",5
+1498,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.8
+1499,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.1
+1500,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.4
+1501,"Segment 4",4,12,"Monthly",2,1,1,"No",4.8
+1502,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.7
+1503,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.2
+1504,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.9
+1505,"Segment 4",4,12,"Monthly",2,1,1,"No",4.2
+1506,"Segment 2",2,12,"Monthly",2,1,1,"No",3
+1507,"Segment 2",2,4,"Quarterly",2,1,1,"No",3
+1508,"Segment 4",4,1,"Annually",2,1,1,"No",3.7
+1509,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.4
+1510,"Segment 1",1,1,"Annually",2,1,1,"No",4.6
+1511,"Segment 2",2,1,"Annually",2,1,1,"No",3
+1512,"Segment 4",4,52,"Weekly",2,1,1,"No",3.6
+1513,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.9
+1514,"Segment 1",1,12,"Monthly",2,1,1,"No",4.1
+1515,"Segment 3",3,52,"Weekly",2,1,1,"No",3.9
+1516,"Segment 4",4,52,"Weekly",2,1,1,"No",3.9
+1517,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.5
+1518,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.4
+1519,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4.1
+1520,"Segment 4",4,52,"Weekly",2,1,1,"No",4.9
+1521,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.4
+1522,"Segment 3",3,52,"Weekly",2,1,1,"No",2.7
+1523,"Segment 1",1,12,"Monthly",2,1,1,"No",4.8
+1524,"Segment 4",4,1,"Annually",2,1,1,"No",3.3
+1525,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.4
+1526,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.6
+1527,"Segment 2",2,12,"Monthly",2,1,1,"No",3.1
+1528,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.5
+1529,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4
+1530,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.1
+1531,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.9
+1532,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.5
+1533,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",4.4
+1534,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.6
+1535,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.4
+1536,"Segment 1",1,12,"Monthly",2,1,1,"No",4
+1537,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.6
+1538,"Segment 4",4,1,"Annually",2,1,1,"No",3.2
+1539,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.2
+1540,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",5
+1541,"Segment 3",3,12,"Monthly",2,1,1,"No",2.9
+1542,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.9
+1543,"Segment 2",2,52,"Weekly",2,1,1,"No",3.5
+1544,"Segment 4",4,1,"Annually",2,1,1,"No",4
+1545,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",3.9
+1546,"Segment 1",1,1,"Annually",2,1,1,"No",4.9
+1547,"Segment 2",2,1,"Annually",2,1,1,"No",3.8
+1548,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.5
+1549,"Segment 2",2,52,"Weekly",2,1,1,"No",3.7
+1550,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.9
+1551,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.8
+1552,"Segment 2",2,12,"Monthly",2,1,1,"No",3.7
+1553,"Segment 2",2,12,"Monthly",2,1,1,"No",3
+1554,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.8
+1555,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",2.7
+1556,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.5
+1557,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1558,"Segment 1",1,4,"Quarterly",2,1,1,"No",3.5
+1559,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.5
+1560,"Segment 4",4,26,"Fortnightly",2,1,1,"No",4.5
+1561,"Segment 4",4,52,"Weekly",2,1,1,"No",3.8
+1562,"Segment 2",2,4,"Quarterly",2,1,1,"No",3.8
+1563,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.2
+1564,"Segment 2",2,52,"Weekly",2,1,1,"No",4.3
+1565,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.5
+1566,"Segment 4",4,1,"Annually",2,1,1,"No",4.2
+1567,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3
+1568,"Segment 1",1,12,"Monthly",2,1,1,"No",4.1
+1569,"Segment 4",4,12,"Monthly",2,1,1,"No",4.6
+1570,"Segment 3",3,52,"Weekly",2,1,1,"No",2.9
+1571,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.8
+1572,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.5
+1573,"Segment 3",3,12,"Monthly",2,1,1,"No",3.4
+1574,"Segment 1",1,52,"Weekly",2,1,1,"No",4.3
+1575,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.2
+1576,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.6
+1577,"Segment 4",4,12,"Monthly",2,1,1,"No",3.7
+1578,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4
+1579,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.9
+1580,"Segment 3",3,12,"Monthly",2,1,1,"No",3.1
+1581,"Segment 4",4,1,"Annually",2,1,1,"No",3.7
+1582,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.2
+1583,"Segment 3",3,12,"Monthly",2,1,1,"No",2.5
+1584,"Segment 4",4,1,"Annually",2,1,1,"No",4.3
+1585,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.1
+1586,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3
+1587,"Segment 1",1,52,"Weekly",2,1,1,"No",4
+1588,"Segment 4",4,26,"Fortnightly",2,1,1,"No",3.5
+1589,"Segment 2",2,12,"Monthly",2,1,1,"No",3.2
+1590,"Segment 3",3,52,"Weekly",2,1,1,"No",2.7
+1591,"Segment 3",3,1,"Annually",2,1,1,"No",3
+1592,"Segment 3",3,1,"Annually",2,1,1,"No",2.9
+1593,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.3
+1594,"Segment 4",4,12,"Monthly",2,1,1,"No",4.9
+1595,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.7
+1596,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.5
+1597,"Segment 1",1,12,"Monthly",2,1,1,"No",4.7
+1598,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.6
+1599,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.1
+1600,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.8
+1601,"Segment 1",1,52,"Weekly",2,1,1,"No",4.7
+1602,"Segment 2",2,12,"Monthly",2,1,1,"No",2.9
+1603,"Segment 2",2,26,"Fortnightly",2,1,1,"No",2.8
+1604,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.3
+1605,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.8
+1606,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.4
+1607,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4.3
+1608,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1609,"Segment 1",1,NA,"Bi-Weekly",2,1,1,"No",4.6
+1610,"Segment 1",1,12,"Monthly",2,1,1,"No",4.1
+1611,"Segment 3",3,1,"Annually",2,1,1,"No",3.4
+1612,"Segment 1",1,12,"Monthly",2,1,1,"No",4.5
+1613,"Segment 1",1,12,"Monthly",2,1,1,"No",4.4
+1614,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4
+1615,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.4
+1616,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.2
+1617,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.4
+1618,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.3
+1619,"Segment 4",4,4,"Quarterly",2,1,1,"No",5
+1620,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",3.5
+1621,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",3.1
+1622,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.9
+1623,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4
+1624,"Segment 2",2,1,"Annually",2,1,1,"No",3.5
+1625,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.6
+1626,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3
+1627,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",2.6
+1628,"Segment 2",2,1,"Annually",2,1,1,"No",2.9
+1629,"Segment 3",3,12,"Monthly",2,1,1,"No",3.1
+1630,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.3
+1631,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",2.9
+1632,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.9
+1633,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",4.7
+1634,"Segment 4",4,NA,"Bi-Weekly",2,1,1,"No",4.4
+1635,"Segment 1",1,NA,"Every 3 Months",2,1,1,"No",3.6
+1636,"Segment 2",2,1,"Annually",2,1,1,"No",3.2
+1637,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4
+1638,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.5
+1639,"Segment 2",2,52,"Weekly",2,1,1,"No",4.6
+1640,"Segment 3",3,1,"Annually",2,1,1,"No",3.3
+1641,"Segment 2",2,52,"Weekly",2,1,1,"No",4
+1642,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.4
+1643,"Segment 1",1,26,"Fortnightly",2,1,1,"No",4.2
+1644,"Segment 3",3,12,"Monthly",2,1,1,"No",3.9
+1645,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1646,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",2.8
+1647,"Segment 4",4,NA,"Every 3 Months",2,1,1,"No",3.7
+1648,"Segment 1",1,4,"Quarterly",2,1,1,"No",4.9
+1649,"Segment 3",3,12,"Monthly",2,1,1,"No",2.6
+1650,"Segment 4",4,4,"Quarterly",2,1,1,"No",4.9
+1651,"Segment 2",2,26,"Fortnightly",2,1,1,"No",3.4
+1652,"Segment 4",4,12,"Monthly",2,1,1,"No",3.9
+1653,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4
+1654,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3
+1655,"Segment 2",2,4,"Quarterly",2,1,1,"No",2.6
+1656,"Segment 3",3,12,"Monthly",2,1,1,"No",3.2
+1657,"Segment 3",3,NA,"Every 3 Months",2,1,1,"No",2.6
+1658,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.2
+1659,"Segment 1",1,52,"Weekly",2,1,1,"No",4.1
+1660,"Segment 2",2,1,"Annually",2,1,1,"No",3.9
+1661,"Segment 2",2,12,"Monthly",2,1,1,"No",4.1
+1662,"Segment 4",4,4,"Quarterly",2,1,1,"No",2.7
+1663,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4.6
+1664,"Segment 2",2,NA,"Bi-Weekly",2,1,1,"No",3.5
+1665,"Segment 1",1,52,"Weekly",2,1,1,"No",5
+1666,"Segment 2",2,12,"Monthly",2,1,1,"No",3.4
+1667,"Segment 2",2,1,"Annually",2,1,1,"No",3.1
+1668,"Segment 2",2,NA,"Every 3 Months",2,1,1,"No",3.4
+1669,"Segment 2",2,26,"Fortnightly",2,1,1,"No",4
+1670,"Segment 3",3,4,"Quarterly",2,1,1,"No",2.7
+1671,"Segment 3",3,52,"Weekly",2,1,1,"No",3.6
+1672,"Segment 1",1,52,"Weekly",2,1,1,"No",4
+1673,"Segment 3",3,4,"Quarterly",2,1,1,"No",3.8
+1674,"Segment 3",3,NA,"Bi-Weekly",2,1,1,"No",3.4
+1675,"Segment 3",3,26,"Fortnightly",2,1,1,"No",3.2
+1676,"Segment 1",1,1,"Annually",2,1,1,"No",4.7
+1677,"Segment 3",3,52,"Weekly",2,1,1,"No",3.1
+1678,"Segment 2",2,52,"Weekly",0,0,0,"No",3.3
+1679,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+1680,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.5
+1681,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+1682,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.7
+1683,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.9
+1684,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+1685,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+1686,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+1687,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+1688,"Segment 4",4,1,"Annually",0,0,0,"No",3.7
+1689,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+1690,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1691,"Segment 2",2,1,"Annually",0,0,0,"No",3.2
+1692,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+1693,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+1694,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.9
+1695,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+1696,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+1697,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+1698,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.5
+1699,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+1700,"Segment 1",1,1,"Annually",0,0,0,"No",4
+1701,"Segment 4",4,12,"Monthly",0,0,0,"No",4.1
+1702,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+1703,"Segment 4",4,52,"Weekly",0,0,0,"No",5
+1704,"Segment 2",2,1,"Annually",0,0,0,"No",4
+1705,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.9
+1706,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.4
+1707,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+1708,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+1709,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+1710,"Segment 4",4,1,"Annually",0,0,0,"No",3.8
+1711,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.8
+1712,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+1713,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.8
+1714,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.6
+1715,"Segment 1",1,12,"Monthly",0,0,0,"No",4.4
+1716,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+1717,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.7
+1718,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+1719,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.4
+1720,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.2
+1721,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+1722,"Segment 1",1,12,"Monthly",0,0,0,"No",4.3
+1723,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+1724,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+1725,"Segment 3",3,52,"Weekly",0,0,0,"No",3.3
+1726,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+1727,"Segment 2",2,52,"Weekly",0,0,0,"No",2.8
+1728,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+1729,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+1730,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.8
+1731,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+1732,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+1733,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.6
+1734,"Segment 4",4,1,"Annually",0,0,0,"No",3.4
+1735,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+1736,"Segment 2",2,1,"Annually",0,0,0,"No",3.6
+1737,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.6
+1738,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+1739,"Segment 2",2,52,"Weekly",0,0,0,"No",2.9
+1740,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+1741,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.3
+1742,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+1743,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+1744,"Segment 3",3,52,"Weekly",0,0,0,"No",3.3
+1745,"Segment 2",2,52,"Weekly",0,0,0,"No",3
+1746,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+1747,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.1
+1748,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+1749,"Segment 4",4,1,"Annually",0,0,0,"No",3.9
+1750,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+1751,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+1752,"Segment 2",2,1,"Annually",0,0,0,"No",3.2
+1753,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+1754,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+1755,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.8
+1756,"Segment 2",2,12,"Monthly",0,0,0,"No",4.6
+1757,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+1758,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+1759,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+1760,"Segment 2",2,52,"Weekly",0,0,0,"No",4
+1761,"Segment 3",3,52,"Weekly",0,0,0,"No",3.5
+1762,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+1763,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+1764,"Segment 4",4,1,"Annually",0,0,0,"No",3.9
+1765,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+1766,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.1
+1767,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.3
+1768,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.8
+1769,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+1770,"Segment 1",1,12,"Monthly",0,0,0,"No",4.3
+1771,"Segment 2",2,52,"Weekly",0,0,0,"No",4.3
+1772,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+1773,"Segment 2",2,1,"Annually",0,0,0,"No",3.1
+1774,"Segment 3",3,1,"Annually",0,0,0,"No",2.7
+1775,"Segment 4",4,52,"Weekly",0,0,0,"No",3.7
+1776,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.3
+1777,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.4
+1778,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.7
+1779,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.9
+1780,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+1781,"Segment 4",4,52,"Weekly",0,0,0,"No",4.2
+1782,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.7
+1783,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.7
+1784,"Segment 2",2,12,"Monthly",0,0,0,"No",3.3
+1785,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+1786,"Segment 2",2,12,"Monthly",0,0,0,"No",4.1
+1787,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1788,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+1789,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.1
+1790,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+1791,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.7
+1792,"Segment 4",4,1,"Annually",0,0,0,"No",4
+1793,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+1794,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.8
+1795,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.7
+1796,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4
+1797,"Segment 2",2,52,"Weekly",0,0,0,"No",3.1
+1798,"Segment 2",2,52,"Weekly",0,0,0,"No",3.9
+1799,"Segment 3",3,52,"Weekly",0,0,0,"No",3.7
+1800,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+1801,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+1802,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.9
+1803,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.6
+1804,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.5
+1805,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+1806,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+1807,"Segment 4",4,1,"Annually",0,0,0,"No",3.9
+1808,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.5
+1809,"Segment 4",4,12,"Monthly",0,0,0,"No",4.3
+1810,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.4
+1811,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.7
+1812,"Segment 4",4,1,"Annually",0,0,0,"No",3.6
+1813,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+1814,"Segment 3",3,52,"Weekly",0,0,0,"No",3.5
+1815,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.8
+1816,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.5
+1817,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+1818,"Segment 1",1,52,"Weekly",0,0,0,"No",4.7
+1819,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+1820,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.5
+1821,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+1822,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+1823,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+1824,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.7
+1825,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+1826,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+1827,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+1828,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+1829,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+1830,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+1831,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+1832,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.3
+1833,"Segment 2",2,12,"Monthly",0,0,0,"No",4.6
+1834,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.5
+1835,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.1
+1836,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.2
+1837,"Segment 2",2,12,"Monthly",0,0,0,"No",4.2
+1838,"Segment 1",1,12,"Monthly",0,0,0,"No",4.8
+1839,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+1840,"Segment 3",3,1,"Annually",0,0,0,"No",3.7
+1841,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.6
+1842,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+1843,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+1844,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+1845,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+1846,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.8
+1847,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+1848,"Segment 4",4,52,"Weekly",0,0,0,"No",4.4
+1849,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+1850,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+1851,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+1852,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+1853,"Segment 4",4,52,"Weekly",0,0,0,"No",3.8
+1854,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.9
+1855,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+1856,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+1857,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.2
+1858,"Segment 4",4,12,"Monthly",0,0,0,"No",4
+1859,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+1860,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.7
+1861,"Segment 1",1,12,"Monthly",0,0,0,"No",4.8
+1862,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+1863,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.6
+1864,"Segment 1",1,12,"Monthly",0,0,0,"No",4.3
+1865,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+1866,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+1867,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+1868,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.4
+1869,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.7
+1870,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+1871,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+1872,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.7
+1873,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1874,"Segment 2",2,52,"Weekly",0,0,0,"No",2.9
+1875,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+1876,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+1877,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.6
+1878,"Segment 2",2,1,"Annually",0,0,0,"No",3.6
+1879,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+1880,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.5
+1881,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+1882,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.3
+1883,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+1884,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+1885,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+1886,"Segment 1",1,12,"Monthly",0,0,0,"No",4.4
+1887,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.4
+1888,"Segment 2",2,12,"Monthly",0,0,0,"No",3.5
+1889,"Segment 4",4,52,"Weekly",0,0,0,"No",3.4
+1890,"Segment 2",2,52,"Weekly",0,0,0,"No",2.5
+1891,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+1892,"Segment 4",4,4,"Quarterly",0,0,0,"No",2.6
+1893,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+1894,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.7
+1895,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+1896,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+1897,"Segment 2",2,12,"Monthly",0,0,0,"No",2.9
+1898,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.9
+1899,"Segment 4",4,12,"Monthly",0,0,0,"No",3.5
+1900,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+1901,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.3
+1902,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+1903,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+1904,"Segment 2",2,52,"Weekly",0,0,0,"No",3.3
+1905,"Segment 1",1,12,"Monthly",0,0,0,"No",4.2
+1906,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+1907,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+1908,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.8
+1909,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+1910,"Segment 4",4,12,"Monthly",0,0,0,"No",4.3
+1911,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.8
+1912,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.9
+1913,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+1914,"Segment 2",2,1,"Annually",0,0,0,"No",3.6
+1915,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+1916,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+1917,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+1918,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+1919,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1920,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+1921,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+1922,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+1923,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1924,"Segment 2",2,1,"Annually",0,0,0,"No",4.3
+1925,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+1926,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.9
+1927,"Segment 4",4,1,"Annually",0,0,0,"No",3
+1928,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+1929,"Segment 3",3,52,"Weekly",0,0,0,"No",3.7
+1930,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.7
+1931,"Segment 2",2,52,"Weekly",0,0,0,"No",3.5
+1932,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.7
+1933,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",5
+1934,"Segment 4",4,1,"Annually",0,0,0,"No",4.1
+1935,"Segment 3",3,1,"Annually",0,0,0,"No",2.7
+1936,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+1937,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+1938,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+1939,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.8
+1940,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+1941,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.9
+1942,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.3
+1943,"Segment 2",2,12,"Monthly",0,0,0,"No",3.4
+1944,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+1945,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+1946,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+1947,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.5
+1948,"Segment 2",2,12,"Monthly",0,0,0,"No",2.6
+1949,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.1
+1950,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.7
+1951,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.6
+1952,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+1953,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.6
+1954,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+1955,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+1956,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+1957,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.9
+1958,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.5
+1959,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+1960,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+1961,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+1962,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+1963,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.4
+1964,"Segment 2",2,52,"Weekly",0,0,0,"No",3.9
+1965,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+1966,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.9
+1967,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+1968,"Segment 3",3,1,"Annually",0,0,0,"No",3.7
+1969,"Segment 4",4,52,"Weekly",0,0,0,"No",4.2
+1970,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.5
+1971,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+1972,"Segment 2",2,12,"Monthly",0,0,0,"No",3.4
+1973,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.3
+1974,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.5
+1975,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+1976,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+1977,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.2
+1978,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+1979,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.8
+1980,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.8
+1981,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+1982,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.7
+1983,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+1984,"Segment 4",4,4,"Quarterly",0,0,0,"No",2.6
+1985,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+1986,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.9
+1987,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.4
+1988,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.4
+1989,"Segment 4",4,52,"Weekly",0,0,0,"No",3.9
+1990,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+1991,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+1992,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+1993,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+1994,"Segment 1",1,52,"Weekly",0,0,0,"No",5
+1995,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+1996,"Segment 4",4,4,"Quarterly",0,0,0,"No",3
+1997,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.3
+1998,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.7
+1999,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+2000,"Segment 4",4,12,"Monthly",0,0,0,"No",4.6
+2001,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",3.6
+2002,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+2003,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2004,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+2005,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+2006,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+2007,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+2008,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+2009,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.5
+2010,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+2011,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.4
+2012,"Segment 4",4,12,"Monthly",0,0,0,"No",3.7
+2013,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.2
+2014,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+2015,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.9
+2016,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.5
+2017,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.4
+2018,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.1
+2019,"Segment 4",4,52,"Weekly",0,0,0,"No",4.5
+2020,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.7
+2021,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+2022,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.4
+2023,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4
+2024,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.1
+2025,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2026,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3
+2027,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.6
+2028,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.8
+2029,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.7
+2030,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2031,"Segment 2",2,12,"Monthly",0,0,0,"No",2.8
+2032,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2033,"Segment 2",2,1,"Annually",0,0,0,"No",4.2
+2034,"Segment 2",2,1,"Annually",0,0,0,"No",3.6
+2035,"Segment 2",2,12,"Monthly",0,0,0,"No",2.9
+2036,"Segment 4",4,52,"Weekly",0,0,0,"No",4.1
+2037,"Segment 3",3,52,"Weekly",0,0,0,"No",3.1
+2038,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+2039,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+2040,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+2041,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+2042,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.2
+2043,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2044,"Segment 2",2,52,"Weekly",0,0,0,"No",2.7
+2045,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+2046,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.4
+2047,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.8
+2048,"Segment 4",4,1,"Annually",0,0,0,"No",3.1
+2049,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+2050,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+2051,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+2052,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+2053,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+2054,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.5
+2055,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2056,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+2057,"Segment 2",2,12,"Monthly",0,0,0,"No",4.4
+2058,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.2
+2059,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2060,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2061,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+2062,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+2063,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.8
+2064,"Segment 4",4,12,"Monthly",0,0,0,"No",2.9
+2065,"Segment 3",3,12,"Monthly",0,0,0,"No",4
+2066,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+2067,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+2068,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.1
+2069,"Segment 4",4,12,"Monthly",0,0,0,"No",3.9
+2070,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+2071,"Segment 4",4,12,"Monthly",0,0,0,"No",3.1
+2072,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.8
+2073,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+2074,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.5
+2075,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+2076,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2077,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.6
+2078,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+2079,"Segment 2",2,52,"Weekly",0,0,0,"No",3.2
+2080,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+2081,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+2082,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+2083,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+2084,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2085,"Segment 4",4,4,"Quarterly",0,0,0,"No",4
+2086,"Segment 2",2,52,"Weekly",0,0,0,"No",4.6
+2087,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+2088,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+2089,"Segment 4",4,1,"Annually",0,0,0,"No",4
+2090,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.6
+2091,"Segment 4",4,12,"Monthly",0,0,0,"No",3.4
+2092,"Segment 3",3,4,"Quarterly",0,0,0,"No",3
+2093,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+2094,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2095,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+2096,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+2097,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+2098,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+2099,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.3
+2100,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+2101,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.4
+2102,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.6
+2103,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+2104,"Segment 3",3,52,"Weekly",0,0,0,"No",3.7
+2105,"Segment 4",4,52,"Weekly",0,0,0,"No",2.8
+2106,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.5
+2107,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.4
+2108,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2109,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.2
+2110,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.7
+2111,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+2112,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+2113,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.5
+2114,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.7
+2115,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+2116,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2117,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.9
+2118,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+2119,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.2
+2120,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.5
+2121,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+2122,"Segment 3",3,12,"Monthly",0,0,0,"No",3.5
+2123,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+2124,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.7
+2125,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+2126,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.8
+2127,"Segment 2",2,12,"Monthly",0,0,0,"No",4.1
+2128,"Segment 2",2,52,"Weekly",0,0,0,"No",4.5
+2129,"Segment 2",2,52,"Weekly",0,0,0,"No",2.7
+2130,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+2131,"Segment 3",3,1,"Annually",0,0,0,"No",3.7
+2132,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.6
+2133,"Segment 1",1,52,"Weekly",0,0,0,"No",4.7
+2134,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+2135,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.9
+2136,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+2137,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2138,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+2139,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+2140,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+2141,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+2142,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2143,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.3
+2144,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+2145,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.7
+2146,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2147,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.6
+2148,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+2149,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+2150,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+2151,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+2152,"Segment 2",2,12,"Monthly",0,0,0,"No",2.6
+2153,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2154,"Segment 4",4,1,"Annually",0,0,0,"No",4.2
+2155,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.4
+2156,"Segment 1",1,12,"Monthly",0,0,0,"No",3.7
+2157,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+2158,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4
+2159,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+2160,"Segment 3",3,1,"Annually",0,0,0,"No",3
+2161,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+2162,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.8
+2163,"Segment 2",2,52,"Weekly",0,0,0,"No",2.7
+2164,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+2165,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.8
+2166,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2167,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+2168,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+2169,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+2170,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+2171,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4
+2172,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.6
+2173,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2174,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+2175,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+2176,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+2177,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+2178,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+2179,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+2180,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2181,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+2182,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+2183,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+2184,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2185,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+2186,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.5
+2187,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.3
+2188,"Segment 1",1,1,"Annually",0,0,0,"No",4.4
+2189,"Segment 1",1,52,"Weekly",0,0,0,"No",4.7
+2190,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4
+2191,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+2192,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",3.8
+2193,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+2194,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+2195,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.5
+2196,"Segment 4",4,12,"Monthly",0,0,0,"No",3.7
+2197,"Segment 1",1,52,"Weekly",0,0,0,"No",4.8
+2198,"Segment 3",3,12,"Monthly",0,0,0,"No",3.7
+2199,"Segment 4",4,12,"Monthly",0,0,0,"No",3.5
+2200,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+2201,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+2202,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+2203,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2204,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+2205,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+2206,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+2207,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+2208,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2209,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+2210,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.5
+2211,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+2212,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.2
+2213,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.3
+2214,"Segment 4",4,4,"Quarterly",0,0,0,"No",2.9
+2215,"Segment 4",4,52,"Weekly",0,0,0,"No",4.1
+2216,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2217,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+2218,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+2219,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.5
+2220,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2221,"Segment 1",1,1,"Annually",0,0,0,"No",4.5
+2222,"Segment 3",3,1,"Annually",0,0,0,"No",3
+2223,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+2224,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+2225,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.3
+2226,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2227,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2228,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.4
+2229,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2230,"Segment 4",4,12,"Monthly",0,0,0,"No",3.9
+2231,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.8
+2232,"Segment 1",1,52,"Weekly",0,0,0,"No",4.1
+2233,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4
+2234,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+2235,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+2236,"Segment 4",4,1,"Annually",0,0,0,"No",4.5
+2237,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2238,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+2239,"Segment 4",4,52,"Weekly",0,0,0,"No",3.8
+2240,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.8
+2241,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+2242,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+2243,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.8
+2244,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+2245,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2246,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.9
+2247,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+2248,"Segment 1",1,1,"Annually",0,0,0,"No",4.4
+2249,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.4
+2250,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2251,"Segment 4",4,52,"Weekly",0,0,0,"No",4.6
+2252,"Segment 3",3,12,"Monthly",0,0,0,"No",3.8
+2253,"Segment 4",4,1,"Annually",0,0,0,"No",3.9
+2254,"Segment 2",2,12,"Monthly",0,0,0,"No",2.6
+2255,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2256,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2257,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+2258,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2259,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+2260,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+2261,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+2262,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+2263,"Segment 2",2,12,"Monthly",0,0,0,"No",3.1
+2264,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.5
+2265,"Segment 4",4,12,"Monthly",0,0,0,"No",3.9
+2266,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+2267,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2268,"Segment 1",1,52,"Weekly",0,0,0,"No",3.8
+2269,"Segment 2",2,12,"Monthly",0,0,0,"No",2.7
+2270,"Segment 2",2,1,"Annually",0,0,0,"No",4.4
+2271,"Segment 3",3,52,"Weekly",0,0,0,"No",3.5
+2272,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+2273,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2274,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.8
+2275,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.5
+2276,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+2277,"Segment 1",1,52,"Weekly",0,0,0,"No",4.1
+2278,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2279,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+2280,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+2281,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2282,"Segment 3",3,1,"Annually",0,0,0,"No",3
+2283,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2284,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2285,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2286,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.6
+2287,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.5
+2288,"Segment 2",2,1,"Annually",0,0,0,"No",3
+2289,"Segment 3",3,52,"Weekly",0,0,0,"No",3.8
+2290,"Segment 4",4,52,"Weekly",0,0,0,"No",4.1
+2291,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2292,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+2293,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+2294,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2295,"Segment 4",4,1,"Annually",0,0,0,"No",5
+2296,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+2297,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.5
+2298,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.7
+2299,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+2300,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+2301,"Segment 1",1,12,"Monthly",0,0,0,"No",4.4
+2302,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2303,"Segment 2",2,12,"Monthly",0,0,0,"No",3.6
+2304,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.8
+2305,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.7
+2306,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+2307,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2308,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+2309,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.4
+2310,"Segment 4",4,4,"Quarterly",0,0,0,"No",5
+2311,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+2312,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2313,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.7
+2314,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.7
+2315,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.4
+2316,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.5
+2317,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+2318,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2319,"Segment 2",2,1,"Annually",0,0,0,"No",3.1
+2320,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+2321,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.7
+2322,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3
+2323,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.5
+2324,"Segment 4",4,12,"Monthly",0,0,0,"No",4.7
+2325,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+2326,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+2327,"Segment 2",2,1,"Annually",0,0,0,"No",2.6
+2328,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.2
+2329,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.6
+2330,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+2331,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+2332,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+2333,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+2334,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.8
+2335,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+2336,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.9
+2337,"Segment 3",3,52,"Weekly",0,0,0,"No",3.1
+2338,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+2339,"Segment 4",4,4,"Quarterly",0,0,0,"No",4
+2340,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+2341,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.6
+2342,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.5
+2343,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+2344,"Segment 2",2,12,"Monthly",0,0,0,"No",4.4
+2345,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+2346,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2347,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+2348,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2349,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.9
+2350,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.9
+2351,"Segment 2",2,1,"Annually",0,0,0,"No",4.2
+2352,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+2353,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+2354,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.1
+2355,"Segment 4",4,12,"Monthly",0,0,0,"No",4.8
+2356,"Segment 1",1,12,"Monthly",0,0,0,"No",4.1
+2357,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+2358,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+2359,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.8
+2360,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2361,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+2362,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+2363,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+2364,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+2365,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.2
+2366,"Segment 3",3,12,"Monthly",0,0,0,"No",2.5
+2367,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.6
+2368,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.4
+2369,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2370,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+2371,"Segment 4",4,52,"Weekly",0,0,0,"No",3.9
+2372,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+2373,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.1
+2374,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.9
+2375,"Segment 4",4,12,"Monthly",0,0,0,"No",4.7
+2376,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+2377,"Segment 1",1,52,"Weekly",0,0,0,"No",4.1
+2378,"Segment 4",4,1,"Annually",0,0,0,"No",4
+2379,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+2380,"Segment 4",4,12,"Monthly",0,0,0,"No",4
+2381,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.5
+2382,"Segment 2",2,1,"Annually",0,0,0,"No",4.5
+2383,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+2384,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+2385,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2386,"Segment 2",2,52,"Weekly",0,0,0,"No",3.8
+2387,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2388,"Segment 4",4,12,"Monthly",0,0,0,"No",4
+2389,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2390,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+2391,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.6
+2392,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2393,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+2394,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",5
+2395,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.9
+2396,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.5
+2397,"Segment 3",3,52,"Weekly",0,0,0,"No",3.7
+2398,"Segment 2",2,12,"Monthly",0,0,0,"No",2.9
+2399,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+2400,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+2401,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+2402,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+2403,"Segment 4",4,52,"Weekly",0,0,0,"No",3.8
+2404,"Segment 2",2,52,"Weekly",0,0,0,"No",4.4
+2405,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+2406,"Segment 4",4,4,"Quarterly",0,0,0,"No",5
+2407,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+2408,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+2409,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2410,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+2411,"Segment 2",2,12,"Monthly",0,0,0,"No",3.7
+2412,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2413,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.3
+2414,"Segment 4",4,52,"Weekly",0,0,0,"No",2.7
+2415,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",3.7
+2416,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2417,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+2418,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.3
+2419,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4
+2420,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2421,"Segment 4",4,1,"Annually",0,0,0,"No",4.2
+2422,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+2423,"Segment 1",1,52,"Weekly",0,0,0,"No",4.8
+2424,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+2425,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2426,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+2427,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.6
+2428,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2429,"Segment 2",2,1,"Annually",0,0,0,"No",4.4
+2430,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+2431,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.3
+2432,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+2433,"Segment 2",2,12,"Monthly",0,0,0,"No",2.8
+2434,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.4
+2435,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+2436,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2437,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.7
+2438,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+2439,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+2440,"Segment 2",2,1,"Annually",0,0,0,"No",2.8
+2441,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+2442,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2443,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.7
+2444,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2445,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.7
+2446,"Segment 4",4,52,"Weekly",0,0,0,"No",4.1
+2447,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2448,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.2
+2449,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+2450,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2451,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.5
+2452,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+2453,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.1
+2454,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+2455,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+2456,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+2457,"Segment 4",4,12,"Monthly",0,0,0,"No",3.3
+2458,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+2459,"Segment 4",4,52,"Weekly",0,0,0,"No",4.6
+2460,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2461,"Segment 2",2,1,"Annually",0,0,0,"No",4
+2462,"Segment 1",1,52,"Weekly",0,0,0,"No",4.8
+2463,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+2464,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.3
+2465,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+2466,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+2467,"Segment 3",3,1,"Annually",0,0,0,"No",3.7
+2468,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+2469,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2470,"Segment 4",4,1,"Annually",0,0,0,"No",5
+2471,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2472,"Segment 1",1,1,"Annually",0,0,0,"No",4.3
+2473,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2474,"Segment 4",4,4,"Quarterly",0,0,0,"No",2.6
+2475,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+2476,"Segment 2",2,12,"Monthly",0,0,0,"No",3.5
+2477,"Segment 4",4,12,"Monthly",0,0,0,"No",3.7
+2478,"Segment 1",1,52,"Weekly",0,0,0,"No",3.8
+2479,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2480,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+2481,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.9
+2482,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+2483,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.8
+2484,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2485,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.8
+2486,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+2487,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+2488,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+2489,"Segment 4",4,12,"Monthly",0,0,0,"No",4.4
+2490,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.9
+2491,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+2492,"Segment 2",2,12,"Monthly",0,0,0,"No",2.5
+2493,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.1
+2494,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2495,"Segment 2",2,1,"Annually",0,0,0,"No",2.6
+2496,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.1
+2497,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+2498,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2499,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+2500,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+2501,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.9
+2502,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.6
+2503,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.1
+2504,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.5
+2505,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4
+2506,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+2507,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+2508,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+2509,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+2510,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.4
+2511,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+2512,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.7
+2513,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+2514,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+2515,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.8
+2516,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+2517,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+2518,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2519,"Segment 1",1,1,"Annually",0,0,0,"No",4
+2520,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.9
+2521,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.1
+2522,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+2523,"Segment 3",3,52,"Weekly",0,0,0,"No",2.5
+2524,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+2525,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.7
+2526,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+2527,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.4
+2528,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.6
+2529,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2530,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+2531,"Segment 3",3,52,"Weekly",0,0,0,"No",3.6
+2532,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+2533,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+2534,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.1
+2535,"Segment 3",3,52,"Weekly",0,0,0,"No",3.2
+2536,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.9
+2537,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.9
+2538,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2539,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.2
+2540,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.1
+2541,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.9
+2542,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2543,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+2544,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+2545,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.5
+2546,"Segment 1",1,1,"Annually",0,0,0,"No",3.9
+2547,"Segment 2",2,4,"Quarterly",0,0,0,"No",3
+2548,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+2549,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+2550,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2551,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3
+2552,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2553,"Segment 2",2,1,"Annually",0,0,0,"No",3.2
+2554,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.5
+2555,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+2556,"Segment 3",3,52,"Weekly",0,0,0,"No",3.5
+2557,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+2558,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.9
+2559,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.7
+2560,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+2561,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.7
+2562,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+2563,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+2564,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.5
+2565,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+2566,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.6
+2567,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2568,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.3
+2569,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+2570,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.8
+2571,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+2572,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.5
+2573,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.9
+2574,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+2575,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+2576,"Segment 4",4,1,"Annually",0,0,0,"No",4
+2577,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+2578,"Segment 2",2,12,"Monthly",0,0,0,"No",4.5
+2579,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.9
+2580,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2581,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+2582,"Segment 4",4,12,"Monthly",0,0,0,"No",4.7
+2583,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.6
+2584,"Segment 4",4,52,"Weekly",0,0,0,"No",2.5
+2585,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+2586,"Segment 2",2,52,"Weekly",0,0,0,"No",4.4
+2587,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+2588,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+2589,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.2
+2590,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+2591,"Segment 4",4,1,"Annually",0,0,0,"No",5
+2592,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+2593,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.4
+2594,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.7
+2595,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.6
+2596,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+2597,"Segment 4",4,12,"Monthly",0,0,0,"No",3
+2598,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.4
+2599,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+2600,"Segment 4",4,12,"Monthly",0,0,0,"No",3.4
+2601,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.9
+2602,"Segment 2",2,12,"Monthly",0,0,0,"No",2.9
+2603,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+2604,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+2605,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+2606,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+2607,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.7
+2608,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.1
+2609,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.2
+2610,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3
+2611,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+2612,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.2
+2613,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.8
+2614,"Segment 4",4,12,"Monthly",0,0,0,"No",2.9
+2615,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+2616,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+2617,"Segment 2",2,1,"Annually",0,0,0,"No",3.6
+2618,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2619,"Segment 4",4,12,"Monthly",0,0,0,"No",4.1
+2620,"Segment 2",2,52,"Weekly",0,0,0,"No",3.9
+2621,"Segment 3",3,1,"Annually",0,0,0,"No",3
+2622,"Segment 2",2,1,"Annually",0,0,0,"No",3
+2623,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+2624,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+2625,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+2626,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+2627,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.2
+2628,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+2629,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",3.8
+2630,"Segment 2",2,1,"Annually",0,0,0,"No",3.8
+2631,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+2632,"Segment 2",2,52,"Weekly",0,0,0,"No",2.7
+2633,"Segment 1",1,1,"Annually",0,0,0,"No",5
+2634,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+2635,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+2636,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.9
+2637,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2638,"Segment 1",1,1,"Annually",0,0,0,"No",3.7
+2639,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+2640,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+2641,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+2642,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2643,"Segment 4",4,1,"Annually",0,0,0,"No",4
+2644,"Segment 2",2,12,"Monthly",0,0,0,"No",2.9
+2645,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2646,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+2647,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+2648,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+2649,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.9
+2650,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.9
+2651,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2652,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2653,"Segment 3",3,12,"Monthly",0,0,0,"No",3.3
+2654,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.8
+2655,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2656,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+2657,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.6
+2658,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2659,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+2660,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.4
+2661,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+2662,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+2663,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2664,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+2665,"Segment 3",3,52,"Weekly",0,0,0,"No",3.2
+2666,"Segment 4",4,52,"Weekly",0,0,0,"No",3.5
+2667,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.1
+2668,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.1
+2669,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.8
+2670,"Segment 2",2,52,"Weekly",0,0,0,"No",2.8
+2671,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.7
+2672,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2673,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2674,"Segment 2",2,12,"Monthly",0,0,0,"No",2.6
+2675,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2676,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2677,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.6
+2678,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+2679,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2680,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.8
+2681,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+2682,"Segment 1",1,12,"Monthly",0,0,0,"No",4.8
+2683,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+2684,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.2
+2685,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.7
+2686,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.7
+2687,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.8
+2688,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+2689,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+2690,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.9
+2691,"Segment 1",1,52,"Weekly",0,0,0,"No",4.7
+2692,"Segment 2",2,12,"Monthly",0,0,0,"No",3.3
+2693,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+2694,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+2695,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.9
+2696,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+2697,"Segment 2",2,12,"Monthly",0,0,0,"No",4.7
+2698,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+2699,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+2700,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+2701,"Segment 3",3,52,"Weekly",0,0,0,"No",3.2
+2702,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.8
+2703,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4
+2704,"Segment 2",2,52,"Weekly",0,0,0,"No",4.4
+2705,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+2706,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",5
+2707,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+2708,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+2709,"Segment 4",4,52,"Weekly",0,0,0,"No",3.3
+2710,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+2711,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+2712,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2713,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+2714,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+2715,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.6
+2716,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2717,"Segment 2",2,52,"Weekly",0,0,0,"No",2.7
+2718,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+2719,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+2720,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+2721,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+2722,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+2723,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2724,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+2725,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.5
+2726,"Segment 4",4,1,"Annually",0,0,0,"No",2.7
+2727,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.3
+2728,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+2729,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+2730,"Segment 1",1,12,"Monthly",0,0,0,"No",4.1
+2731,"Segment 1",1,1,"Annually",0,0,0,"No",4.1
+2732,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.5
+2733,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2734,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+2735,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.7
+2736,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+2737,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+2738,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.4
+2739,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+2740,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.5
+2741,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+2742,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+2743,"Segment 1",1,1,"Annually",0,0,0,"No",3.9
+2744,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.1
+2745,"Segment 3",3,12,"Monthly",0,0,0,"No",3.3
+2746,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.1
+2747,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+2748,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+2749,"Segment 3",3,1,"Annually",0,0,0,"No",3
+2750,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+2751,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2752,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+2753,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4
+2754,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.6
+2755,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+2756,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+2757,"Segment 2",2,12,"Monthly",0,0,0,"No",4.1
+2758,"Segment 4",4,12,"Monthly",0,0,0,"No",4.3
+2759,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+2760,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+2761,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",5
+2762,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+2763,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+2764,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+2765,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+2766,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.3
+2767,"Segment 4",4,12,"Monthly",0,0,0,"No",2.8
+2768,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+2769,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.8
+2770,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+2771,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.3
+2772,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.1
+2773,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.5
+2774,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+2775,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.1
+2776,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+2777,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+2778,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.8
+2779,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.2
+2780,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+2781,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2782,"Segment 2",2,52,"Weekly",0,0,0,"No",4.6
+2783,"Segment 2",2,1,"Annually",0,0,0,"No",3.8
+2784,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.5
+2785,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+2786,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2787,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.8
+2788,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+2789,"Segment 4",4,1,"Annually",0,0,0,"No",3.1
+2790,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+2791,"Segment 1",1,1,"Annually",0,0,0,"No",4.5
+2792,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2793,"Segment 2",2,52,"Weekly",0,0,0,"No",3.2
+2794,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+2795,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.3
+2796,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+2797,"Segment 4",4,1,"Annually",0,0,0,"No",3.8
+2798,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.5
+2799,"Segment 2",2,52,"Weekly",0,0,0,"No",4.8
+2800,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.9
+2801,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.4
+2802,"Segment 2",2,1,"Annually",0,0,0,"No",2.6
+2803,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+2804,"Segment 2",2,12,"Monthly",0,0,0,"No",3.3
+2805,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.8
+2806,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.3
+2807,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+2808,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+2809,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+2810,"Segment 4",4,4,"Quarterly",0,0,0,"No",3
+2811,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+2812,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.7
+2813,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.8
+2814,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.3
+2815,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+2816,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+2817,"Segment 2",2,52,"Weekly",0,0,0,"No",3.5
+2818,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+2819,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+2820,"Segment 2",2,12,"Monthly",0,0,0,"No",3
+2821,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.9
+2822,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+2823,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.1
+2824,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2825,"Segment 4",4,4,"Quarterly",0,0,0,"No",4
+2826,"Segment 4",4,1,"Annually",0,0,0,"No",4.3
+2827,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+2828,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+2829,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+2830,"Segment 4",4,52,"Weekly",0,0,0,"No",3.4
+2831,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.9
+2832,"Segment 1",1,52,"Weekly",0,0,0,"No",5
+2833,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+2834,"Segment 3",3,12,"Monthly",0,0,0,"No",3.3
+2835,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+2836,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+2837,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+2838,"Segment 4",4,52,"Weekly",0,0,0,"No",4.5
+2839,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+2840,"Segment 4",4,12,"Monthly",0,0,0,"No",2.8
+2841,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+2842,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+2843,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.3
+2844,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+2845,"Segment 1",1,1,"Annually",0,0,0,"No",4.4
+2846,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.1
+2847,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.8
+2848,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.8
+2849,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+2850,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.1
+2851,"Segment 4",4,1,"Annually",0,0,0,"No",3
+2852,"Segment 4",4,12,"Monthly",0,0,0,"No",3
+2853,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+2854,"Segment 3",3,52,"Weekly",0,0,0,"No",3.2
+2855,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+2856,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.8
+2857,"Segment 2",2,12,"Monthly",0,0,0,"No",3.5
+2858,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+2859,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+2860,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+2861,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+2862,"Segment 2",2,12,"Monthly",0,0,0,"No",3.4
+2863,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+2864,"Segment 1",1,12,"Monthly",0,0,0,"No",3.9
+2865,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+2866,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.7
+2867,"Segment 4",4,1,"Annually",0,0,0,"No",3.1
+2868,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.9
+2869,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.6
+2870,"Segment 4",4,52,"Weekly",0,0,0,"No",4.2
+2871,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2872,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.7
+2873,"Segment 2",2,1,"Annually",0,0,0,"No",2.6
+2874,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+2875,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+2876,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+2877,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.4
+2878,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+2879,"Segment 4",4,1,"Annually",0,0,0,"No",4.3
+2880,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+2881,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+2882,"Segment 4",4,1,"Annually",0,0,0,"No",4.2
+2883,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.6
+2884,"Segment 3",3,52,"Weekly",0,0,0,"No",3.2
+2885,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.4
+2886,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+2887,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+2888,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+2889,"Segment 2",2,4,"Quarterly",0,0,0,"No",5
+2890,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+2891,"Segment 3",3,12,"Monthly",0,0,0,"No",3.7
+2892,"Segment 3",3,12,"Monthly",0,0,0,"No",2.5
+2893,"Segment 3",3,12,"Monthly",0,0,0,"No",3.2
+2894,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.1
+2895,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+2896,"Segment 4",4,12,"Monthly",0,0,0,"No",4.6
+2897,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+2898,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.5
+2899,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+2900,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.2
+2901,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+2902,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+2903,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+2904,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.5
+2905,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2906,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.8
+2907,"Segment 2",2,1,"Annually",0,0,0,"No",3.9
+2908,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.7
+2909,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+2910,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+2911,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+2912,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+2913,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4
+2914,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.5
+2915,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+2916,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2917,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.7
+2918,"Segment 2",2,1,"Annually",0,0,0,"No",2.9
+2919,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+2920,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+2921,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+2922,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+2923,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+2924,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+2925,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.7
+2926,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.8
+2927,"Segment 4",4,52,"Weekly",0,0,0,"No",4.8
+2928,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.7
+2929,"Segment 3",3,52,"Weekly",0,0,0,"No",3.6
+2930,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.5
+2931,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+2932,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+2933,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+2934,"Segment 1",1,12,"Monthly",0,0,0,"No",3.8
+2935,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+2936,"Segment 2",2,52,"Weekly",0,0,0,"No",4.6
+2937,"Segment 1",1,52,"Weekly",0,0,0,"No",3.6
+2938,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2939,"Segment 3",3,12,"Monthly",0,0,0,"No",3
+2940,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+2941,"Segment 4",4,12,"Monthly",0,0,0,"No",4.8
+2942,"Segment 4",4,12,"Monthly",0,0,0,"No",3.7
+2943,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+2944,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+2945,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+2946,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+2947,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.8
+2948,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+2949,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.1
+2950,"Segment 3",3,1,"Annually",0,0,0,"No",3.8
+2951,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.1
+2952,"Segment 4",4,52,"Weekly",0,0,0,"No",4.6
+2953,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+2954,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+2955,"Segment 1",1,1,"Annually",0,0,0,"No",3.9
+2956,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+2957,"Segment 4",4,12,"Monthly",0,0,0,"No",3.7
+2958,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+2959,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+2960,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+2961,"Segment 2",2,52,"Weekly",0,0,0,"No",3.6
+2962,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+2963,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4
+2964,"Segment 4",4,52,"Weekly",0,0,0,"No",3.6
+2965,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.8
+2966,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.4
+2967,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.8
+2968,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+2969,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.9
+2970,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+2971,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+2972,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.9
+2973,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+2974,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+2975,"Segment 4",4,52,"Weekly",0,0,0,"No",4.1
+2976,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.5
+2977,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+2978,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+2979,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.9
+2980,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+2981,"Segment 4",4,12,"Monthly",0,0,0,"No",4.4
+2982,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+2983,"Segment 3",3,52,"Weekly",0,0,0,"No",3.6
+2984,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+2985,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+2986,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+2987,"Segment 4",4,12,"Monthly",0,0,0,"No",3.3
+2988,"Segment 2",2,12,"Monthly",0,0,0,"No",2.5
+2989,"Segment 4",4,12,"Monthly",0,0,0,"No",5
+2990,"Segment 2",2,52,"Weekly",0,0,0,"No",4.3
+2991,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+2992,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.9
+2993,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+2994,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.2
+2995,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.5
+2996,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+2997,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.9
+2998,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+2999,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3000,"Segment 1",1,12,"Monthly",0,0,0,"No",3.8
+3001,"Segment 4",4,52,"Weekly",0,0,0,"No",3.7
+3002,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3003,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+3004,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3005,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+3006,"Segment 3",3,52,"Weekly",0,0,0,"No",3.5
+3007,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.7
+3008,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+3009,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+3010,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.6
+3011,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+3012,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+3013,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+3014,"Segment 1",1,12,"Monthly",0,0,0,"No",4.2
+3015,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.5
+3016,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.8
+3017,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+3018,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.3
+3019,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+3020,"Segment 1",1,1,"Annually",0,0,0,"No",3.9
+3021,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3022,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.5
+3023,"Segment 2",2,52,"Weekly",0,0,0,"No",4
+3024,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+3025,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+3026,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+3027,"Segment 3",3,1,"Annually",0,0,0,"No",2.5
+3028,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.8
+3029,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3
+3030,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+3031,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+3032,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3033,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+3034,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+3035,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.5
+3036,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.5
+3037,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+3038,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+3039,"Segment 2",2,1,"Annually",0,0,0,"No",4.2
+3040,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.2
+3041,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+3042,"Segment 4",4,12,"Monthly",0,0,0,"No",4
+3043,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+3044,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+3045,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+3046,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3047,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.2
+3048,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.1
+3049,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.9
+3050,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+3051,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.6
+3052,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+3053,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.5
+3054,"Segment 3",3,12,"Monthly",0,0,0,"No",3.2
+3055,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3056,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+3057,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+3058,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+3059,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.8
+3060,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3061,"Segment 4",4,12,"Monthly",0,0,0,"No",4.7
+3062,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.5
+3063,"Segment 4",4,12,"Monthly",0,0,0,"No",3.3
+3064,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.9
+3065,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.6
+3066,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+3067,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.3
+3068,"Segment 2",2,52,"Weekly",0,0,0,"No",3.5
+3069,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+3070,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+3071,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.6
+3072,"Segment 3",3,12,"Monthly",0,0,0,"No",3.4
+3073,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+3074,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+3075,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+3076,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.6
+3077,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.6
+3078,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3
+3079,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+3080,"Segment 2",2,1,"Annually",0,0,0,"No",4
+3081,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.1
+3082,"Segment 2",2,52,"Weekly",0,0,0,"No",4.9
+3083,"Segment 4",4,1,"Annually",0,0,0,"No",4
+3084,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.5
+3085,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+3086,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3087,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.5
+3088,"Segment 4",4,12,"Monthly",0,0,0,"No",3.1
+3089,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.3
+3090,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.6
+3091,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+3092,"Segment 4",4,1,"Annually",0,0,0,"No",3.4
+3093,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.5
+3094,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3095,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+3096,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.4
+3097,"Segment 4",4,12,"Monthly",0,0,0,"No",3.5
+3098,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.7
+3099,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.3
+3100,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+3101,"Segment 4",4,52,"Weekly",0,0,0,"No",3.9
+3102,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+3103,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+3104,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+3105,"Segment 1",1,26,"Fortnightly",0,0,0,"No",5
+3106,"Segment 2",2,12,"Monthly",0,0,0,"No",2.7
+3107,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+3108,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.6
+3109,"Segment 3",3,12,"Monthly",0,0,0,"No",3.2
+3110,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.3
+3111,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3112,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+3113,"Segment 3",3,1,"Annually",0,0,0,"No",3.8
+3114,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+3115,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.7
+3116,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.1
+3117,"Segment 4",4,52,"Weekly",0,0,0,"No",3.7
+3118,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+3119,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.7
+3120,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+3121,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4
+3122,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+3123,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+3124,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.3
+3125,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.4
+3126,"Segment 1",1,4,"Quarterly",0,0,0,"No",4
+3127,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3128,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.4
+3129,"Segment 2",2,1,"Annually",0,0,0,"No",4.4
+3130,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.7
+3131,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.5
+3132,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3133,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.2
+3134,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.1
+3135,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+3136,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+3137,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.1
+3138,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+3139,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.6
+3140,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+3141,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+3142,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+3143,"Segment 1",1,4,"Quarterly",0,0,0,"No",4
+3144,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+3145,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+3146,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.6
+3147,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+3148,"Segment 4",4,52,"Weekly",0,0,0,"No",4.3
+3149,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+3150,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+3151,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.6
+3152,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+3153,"Segment 4",4,12,"Monthly",0,0,0,"No",3.1
+3154,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.1
+3155,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.4
+3156,"Segment 1",1,1,"Annually",0,0,0,"No",4.3
+3157,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+3158,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+3159,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3160,"Segment 4",4,4,"Quarterly",0,0,0,"No",2.9
+3161,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.8
+3162,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+3163,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+3164,"Segment 3",3,12,"Monthly",0,0,0,"No",2.8
+3165,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+3166,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3
+3167,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+3168,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+3169,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.9
+3170,"Segment 3",3,52,"Weekly",0,0,0,"No",3.8
+3171,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.4
+3172,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.1
+3173,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.7
+3174,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.9
+3175,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+3176,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+3177,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+3178,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+3179,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+3180,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+3181,"Segment 3",3,52,"Weekly",0,0,0,"No",3.8
+3182,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+3183,"Segment 4",4,1,"Annually",0,0,0,"No",3.6
+3184,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.5
+3185,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.2
+3186,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+3187,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+3188,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+3189,"Segment 3",3,12,"Monthly",0,0,0,"No",3.5
+3190,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.2
+3191,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+3192,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.7
+3193,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+3194,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4
+3195,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3196,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.9
+3197,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+3198,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+3199,"Segment 4",4,52,"Weekly",0,0,0,"No",2.8
+3200,"Segment 2",2,12,"Monthly",0,0,0,"No",4.2
+3201,"Segment 2",2,12,"Monthly",0,0,0,"No",4.8
+3202,"Segment 2",2,12,"Monthly",0,0,0,"No",2.8
+3203,"Segment 2",2,1,"Annually",0,0,0,"No",4.5
+3204,"Segment 2",2,1,"Annually",0,0,0,"No",4.1
+3205,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+3206,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+3207,"Segment 3",3,12,"Monthly",0,0,0,"No",3
+3208,"Segment 2",2,1,"Annually",0,0,0,"No",2.7
+3209,"Segment 2",2,52,"Weekly",0,0,0,"No",3.3
+3210,"Segment 2",2,1,"Annually",0,0,0,"No",4.3
+3211,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+3212,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3213,"Segment 1",1,52,"Weekly",0,0,0,"No",3.6
+3214,"Segment 3",3,12,"Monthly",0,0,0,"No",3.3
+3215,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+3216,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+3217,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3218,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3219,"Segment 1",1,12,"Monthly",0,0,0,"No",3.9
+3220,"Segment 2",2,52,"Weekly",0,0,0,"No",3.5
+3221,"Segment 1",1,12,"Monthly",0,0,0,"No",4.1
+3222,"Segment 3",3,1,"Annually",0,0,0,"No",3.2
+3223,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+3224,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.9
+3225,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+3226,"Segment 4",4,52,"Weekly",0,0,0,"No",3
+3227,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.3
+3228,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+3229,"Segment 4",4,1,"Annually",0,0,0,"No",4.6
+3230,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+3231,"Segment 3",3,1,"Annually",0,0,0,"No",2.5
+3232,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+3233,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+3234,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+3235,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.5
+3236,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+3237,"Segment 4",4,12,"Monthly",0,0,0,"No",4.1
+3238,"Segment 2",2,52,"Weekly",0,0,0,"No",2.8
+3239,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+3240,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+3241,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+3242,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.4
+3243,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+3244,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",5
+3245,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+3246,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+3247,"Segment 4",4,12,"Monthly",0,0,0,"No",2.9
+3248,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+3249,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+3250,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+3251,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+3252,"Segment 1",1,4,"Quarterly",0,0,0,"No",3.7
+3253,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.7
+3254,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.2
+3255,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.9
+3256,"Segment 2",2,12,"Monthly",0,0,0,"No",2.8
+3257,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.7
+3258,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.3
+3259,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+3260,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.7
+3261,"Segment 1",1,1,"Annually",0,0,0,"No",4.5
+3262,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+3263,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+3264,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+3265,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3266,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.2
+3267,"Segment 4",4,52,"Weekly",0,0,0,"No",4.2
+3268,"Segment 3",3,4,"Quarterly",0,0,0,"No",3
+3269,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3270,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3271,"Segment 2",2,1,"Annually",0,0,0,"No",4.7
+3272,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+3273,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+3274,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.6
+3275,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.9
+3276,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+3277,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+3278,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3279,"Segment 4",4,52,"Weekly",0,0,0,"No",3.3
+3280,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3
+3281,"Segment 3",3,12,"Monthly",0,0,0,"No",2.7
+3282,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+3283,"Segment 1",1,12,"Monthly",0,0,0,"No",4.8
+3284,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.9
+3285,"Segment 4",4,1,"Annually",0,0,0,"No",4.5
+3286,"Segment 2",2,52,"Weekly",0,0,0,"No",4.6
+3287,"Segment 1",1,26,"Fortnightly",0,0,0,"No",5
+3288,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+3289,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.9
+3290,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4
+3291,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+3292,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+3293,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.9
+3294,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.5
+3295,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.5
+3296,"Segment 2",2,52,"Weekly",0,0,0,"No",2.8
+3297,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.2
+3298,"Segment 4",4,12,"Monthly",0,0,0,"No",4.1
+3299,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.5
+3300,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+3301,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3302,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.5
+3303,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+3304,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.4
+3305,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3306,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+3307,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.6
+3308,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+3309,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+3310,"Segment 2",2,12,"Monthly",0,0,0,"No",3.1
+3311,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.6
+3312,"Segment 1",1,1,"Annually",0,0,0,"No",4
+3313,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+3314,"Segment 2",2,12,"Monthly",0,0,0,"No",3.9
+3315,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.3
+3316,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3317,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+3318,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3319,"Segment 2",2,12,"Monthly",0,0,0,"No",3.9
+3320,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+3321,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.2
+3322,"Segment 4",4,1,"Annually",0,0,0,"No",4.3
+3323,"Segment 4",4,52,"Weekly",0,0,0,"No",4.6
+3324,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+3325,"Segment 2",2,52,"Weekly",0,0,0,"No",3.3
+3326,"Segment 3",3,12,"Monthly",0,0,0,"No",3.7
+3327,"Segment 4",4,1,"Annually",0,0,0,"No",4.3
+3328,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.1
+3329,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+3330,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.8
+3331,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3332,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.5
+3333,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+3334,"Segment 2",2,12,"Monthly",0,0,0,"No",4.2
+3335,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+3336,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.5
+3337,"Segment 1",1,1,"Annually",0,0,0,"No",4
+3338,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.4
+3339,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+3340,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.6
+3341,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.4
+3342,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+3343,"Segment 4",4,52,"Weekly",0,0,0,"No",3.8
+3344,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.6
+3345,"Segment 2",2,1,"Annually",0,0,0,"No",4.3
+3346,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",4
+3347,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+3348,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.4
+3349,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3350,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.8
+3351,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+3352,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+3353,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.9
+3354,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+3355,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+3356,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3357,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+3358,"Segment 3",3,12,"Monthly",0,0,0,"No",3.5
+3359,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+3360,"Segment 4",4,12,"Monthly",0,0,0,"No",3.9
+3361,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+3362,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.1
+3363,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+3364,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3
+3365,"Segment 2",2,12,"Monthly",0,0,0,"No",3.2
+3366,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+3367,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.6
+3368,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+3369,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3370,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+3371,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+3372,"Segment 4",4,1,"Annually",0,0,0,"No",4
+3373,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.6
+3374,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.5
+3375,"Segment 1",1,1,"Annually",0,0,0,"No",3.7
+3376,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+3377,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+3378,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+3379,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.5
+3380,"Segment 4",4,52,"Weekly",0,0,0,"No",5
+3381,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.8
+3382,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.7
+3383,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+3384,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3385,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.8
+3386,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",2.8
+3387,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+3388,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.4
+3389,"Segment 1",1,52,"Weekly",0,0,0,"No",4.5
+3390,"Segment 1",1,1,"Annually",0,0,0,"No",3.8
+3391,"Segment 3",3,1,"Annually",0,0,0,"No",3
+3392,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.7
+3393,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.4
+3394,"Segment 4",4,12,"Monthly",0,0,0,"No",3.1
+3395,"Segment 4",4,1,"Annually",0,0,0,"No",4.2
+3396,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+3397,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+3398,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.7
+3399,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.8
+3400,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+3401,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+3402,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3403,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+3404,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.9
+3405,"Segment 2",2,1,"Annually",0,0,0,"No",3.9
+3406,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.2
+3407,"Segment 4",4,4,"Quarterly",0,0,0,"No",4
+3408,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+3409,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+3410,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+3411,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+3412,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+3413,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.8
+3414,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+3415,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+3416,"Segment 3",3,1,"Annually",0,0,0,"No",3
+3417,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.2
+3418,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.9
+3419,"Segment 2",2,1,"Annually",0,0,0,"No",2.8
+3420,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+3421,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+3422,"Segment 2",2,52,"Weekly",0,0,0,"No",2.9
+3423,"Segment 3",3,12,"Monthly",0,0,0,"No",3.2
+3424,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.8
+3425,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+3426,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+3427,"Segment 1",1,1,"Annually",0,0,0,"No",4.8
+3428,"Segment 3",3,1,"Annually",0,0,0,"No",2.5
+3429,"Segment 3",3,12,"Monthly",0,0,0,"No",2.5
+3430,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+3431,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+3432,"Segment 1",1,1,"Annually",0,0,0,"No",4.2
+3433,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3434,"Segment 4",4,1,"Annually",0,0,0,"No",4.5
+3435,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.3
+3436,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.7
+3437,"Segment 4",4,12,"Monthly",0,0,0,"No",2.8
+3438,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+3439,"Segment 3",3,12,"Monthly",0,0,0,"No",3
+3440,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.5
+3441,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+3442,"Segment 4",4,1,"Annually",0,0,0,"No",4.1
+3443,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+3444,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+3445,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+3446,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+3447,"Segment 1",1,52,"Weekly",0,0,0,"No",5
+3448,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.3
+3449,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+3450,"Segment 1",1,12,"Monthly",0,0,0,"No",4.5
+3451,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+3452,"Segment 3",3,1,"Annually",0,0,0,"No",3
+3453,"Segment 1",1,26,"Fortnightly",0,0,0,"No",3.7
+3454,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+3455,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.6
+3456,"Segment 4",4,1,"Annually",0,0,0,"No",4.7
+3457,"Segment 1",1,12,"Monthly",0,0,0,"No",4.6
+3458,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3
+3459,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.4
+3460,"Segment 2",2,1,"Annually",0,0,0,"No",3.8
+3461,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+3462,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.4
+3463,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.5
+3464,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+3465,"Segment 3",3,1,"Annually",0,0,0,"No",2.7
+3466,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3467,"Segment 1",1,1,"Annually",0,0,0,"No",4.6
+3468,"Segment 1",1,1,"Annually",0,0,0,"No",5
+3469,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+3470,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+3471,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.5
+3472,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.1
+3473,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+3474,"Segment 2",2,52,"Weekly",0,0,0,"No",2.5
+3475,"Segment 4",4,12,"Monthly",0,0,0,"No",4.4
+3476,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.4
+3477,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+3478,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.8
+3479,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+3480,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3481,"Segment 3",3,12,"Monthly",0,0,0,"No",3.5
+3482,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.4
+3483,"Segment 4",4,52,"Weekly",0,0,0,"No",3.9
+3484,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.9
+3485,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+3486,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.4
+3487,"Segment 4",4,52,"Weekly",0,0,0,"No",4.9
+3488,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+3489,"Segment 2",2,4,"Quarterly",0,0,0,"No",4.9
+3490,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+3491,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.6
+3492,"Segment 1",1,12,"Monthly",0,0,0,"No",4.3
+3493,"Segment 4",4,1,"Annually",0,0,0,"No",4.6
+3494,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+3495,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.5
+3496,"Segment 3",3,52,"Weekly",0,0,0,"No",2.8
+3497,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+3498,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+3499,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",3.8
+3500,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+3501,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+3502,"Segment 4",4,52,"Weekly",0,0,0,"No",4.8
+3503,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3504,"Segment 4",4,52,"Weekly",0,0,0,"No",3.9
+3505,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+3506,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.7
+3507,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.7
+3508,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+3509,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+3510,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",4.3
+3511,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3512,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+3513,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+3514,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+3515,"Segment 1",1,12,"Monthly",0,0,0,"No",4.7
+3516,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3517,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3518,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.1
+3519,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.2
+3520,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.7
+3521,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+3522,"Segment 2",2,52,"Weekly",0,0,0,"No",3.7
+3523,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3524,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+3525,"Segment 4",4,12,"Monthly",0,0,0,"No",2.9
+3526,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+3527,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.8
+3528,"Segment 1",1,52,"Weekly",0,0,0,"No",4.7
+3529,"Segment 1",1,1,"Annually",0,0,0,"No",4.5
+3530,"Segment 2",2,52,"Weekly",0,0,0,"No",3.9
+3531,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+3532,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.6
+3533,"Segment 4",4,1,"Annually",0,0,0,"No",4.6
+3534,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.7
+3535,"Segment 4",4,52,"Weekly",0,0,0,"No",3.2
+3536,"Segment 4",4,12,"Monthly",0,0,0,"No",5
+3537,"Segment 2",2,12,"Monthly",0,0,0,"No",4.5
+3538,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.5
+3539,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+3540,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+3541,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+3542,"Segment 4",4,1,"Annually",0,0,0,"No",4
+3543,"Segment 2",2,52,"Weekly",0,0,0,"No",4.2
+3544,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.1
+3545,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.6
+3546,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+3547,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.6
+3548,"Segment 2",2,1,"Annually",0,0,0,"No",3.8
+3549,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3
+3550,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.4
+3551,"Segment 4",4,52,"Weekly",0,0,0,"No",4.8
+3552,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+3553,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+3554,"Segment 4",4,52,"Weekly",0,0,0,"No",4.9
+3555,"Segment 1",1,26,"Fortnightly",0,0,0,"No",5
+3556,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+3557,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.2
+3558,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.9
+3559,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.8
+3560,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+3561,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+3562,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.4
+3563,"Segment 2",2,52,"Weekly",0,0,0,"No",3.4
+3564,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.9
+3565,"Segment 2",2,1,"Annually",0,0,0,"No",4.4
+3566,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+3567,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+3568,"Segment 1",1,12,"Monthly",0,0,0,"No",4
+3569,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.8
+3570,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.3
+3571,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+3572,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.2
+3573,"Segment 1",1,12,"Monthly",0,0,0,"No",5
+3574,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3575,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.9
+3576,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.7
+3577,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3
+3578,"Segment 2",2,52,"Weekly",0,0,0,"No",2.6
+3579,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.6
+3580,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3581,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.2
+3582,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+3583,"Segment 3",3,1,"Annually",0,0,0,"No",3.4
+3584,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.7
+3585,"Segment 1",1,12,"Monthly",0,0,0,"No",4.8
+3586,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.1
+3587,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3588,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+3589,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+3590,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.8
+3591,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3592,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.2
+3593,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+3594,"Segment 4",4,12,"Monthly",0,0,0,"No",4.6
+3595,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.6
+3596,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+3597,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.3
+3598,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+3599,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3600,"Segment 1",1,52,"Weekly",0,0,0,"No",4.6
+3601,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",2.7
+3602,"Segment 3",3,12,"Monthly",0,0,0,"No",3
+3603,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.3
+3604,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+3605,"Segment 4",4,1,"Annually",0,0,0,"No",3.3
+3606,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.3
+3607,"Segment 4",4,1,"Annually",0,0,0,"No",4.8
+3608,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.3
+3609,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.3
+3610,"Segment 3",3,12,"Monthly",0,0,0,"No",3
+3611,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.8
+3612,"Segment 4",4,1,"Annually",0,0,0,"No",2.9
+3613,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.6
+3614,"Segment 2",2,1,"Annually",0,0,0,"No",3.5
+3615,"Segment 1",1,1,"Annually",0,0,0,"No",4.7
+3616,"Segment 1",1,12,"Monthly",0,0,0,"No",4.4
+3617,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+3618,"Segment 1",1,12,"Monthly",0,0,0,"No",4.3
+3619,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3620,"Segment 4",4,52,"Weekly",0,0,0,"No",4.9
+3621,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.9
+3622,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+3623,"Segment 1",1,1,"Annually",0,0,0,"No",4.3
+3624,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+3625,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+3626,"Segment 4",4,52,"Weekly",0,0,0,"No",4.4
+3627,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.5
+3628,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.3
+3629,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+3630,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.5
+3631,"Segment 4",4,52,"Weekly",0,0,0,"No",4.8
+3632,"Segment 3",3,12,"Monthly",0,0,0,"No",2.9
+3633,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3634,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.8
+3635,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+3636,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+3637,"Segment 2",2,52,"Weekly",0,0,0,"No",4.2
+3638,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.6
+3639,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3640,"Segment 3",3,1,"Annually",0,0,0,"No",3.6
+3641,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+3642,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.7
+3643,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+3644,"Segment 4",4,1,"Annually",0,0,0,"No",3.2
+3645,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+3646,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+3647,"Segment 4",4,26,"Fortnightly",0,0,0,"No",5
+3648,"Segment 3",3,52,"Weekly",0,0,0,"No",2.9
+3649,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",5
+3650,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+3651,"Segment 3",3,1,"Annually",0,0,0,"No",3.5
+3652,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",3.8
+3653,"Segment 1",1,12,"Monthly",0,0,0,"No",3.8
+3654,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.9
+3655,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+3656,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+3657,"Segment 3",3,12,"Monthly",0,0,0,"No",3.7
+3658,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.7
+3659,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+3660,"Segment 1",1,1,"Annually",0,0,0,"No",4.9
+3661,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.1
+3662,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.5
+3663,"Segment 4",4,52,"Weekly",0,0,0,"No",4.9
+3664,"Segment 4",4,52,"Weekly",0,0,0,"No",4.4
+3665,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.4
+3666,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.4
+3667,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3
+3668,"Segment 3",3,12,"Monthly",0,0,0,"No",2.6
+3669,"Segment 4",4,1,"Annually",0,0,0,"No",3.2
+3670,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.6
+3671,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.8
+3672,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.8
+3673,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+3674,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+3675,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+3676,"Segment 4",4,12,"Monthly",0,0,0,"No",4.5
+3677,"Segment 1",1,12,"Monthly",0,0,0,"No",4.9
+3678,"Segment 3",3,1,"Annually",0,0,0,"No",2.8
+3679,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.5
+3680,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+3681,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+3682,"Segment 1",1,12,"Monthly",0,0,0,"No",4.2
+3683,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.6
+3684,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3
+3685,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.4
+3686,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3687,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.8
+3688,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3689,"Segment 4",4,12,"Monthly",0,0,0,"No",3
+3690,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.5
+3691,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",3.7
+3692,"Segment 2",2,52,"Weekly",0,0,0,"No",4.8
+3693,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.8
+3694,"Segment 4",4,52,"Weekly",0,0,0,"No",4.7
+3695,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3696,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.6
+3697,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+3698,"Segment 4",4,52,"Weekly",0,0,0,"No",3
+3699,"Segment 1",1,1,"Annually",0,0,0,"No",4
+3700,"Segment 3",3,52,"Weekly",0,0,0,"No",2.6
+3701,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+3702,"Segment 4",4,1,"Annually",0,0,0,"No",4.5
+3703,"Segment 3",3,52,"Weekly",0,0,0,"No",2.7
+3704,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3705,"Segment 4",4,4,"Quarterly",0,0,0,"No",4
+3706,"Segment 3",3,1,"Annually",0,0,0,"No",3.2
+3707,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4
+3708,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3709,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3710,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.6
+3711,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.6
+3712,"Segment 4",4,1,"Annually",0,0,0,"No",3.2
+3713,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.7
+3714,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.6
+3715,"Segment 1",1,52,"Weekly",0,0,0,"No",3.9
+3716,"Segment 2",2,12,"Monthly",0,0,0,"No",3.4
+3717,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.4
+3718,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+3719,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.9
+3720,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.1
+3721,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.6
+3722,"Segment 4",4,1,"Annually",0,0,0,"No",4
+3723,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+3724,"Segment 3",3,12,"Monthly",0,0,0,"No",3.6
+3725,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+3726,"Segment 1",1,1,"Annually",0,0,0,"No",4.4
+3727,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.3
+3728,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.5
+3729,"Segment 2",2,1,"Annually",0,0,0,"No",3
+3730,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3731,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.5
+3732,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1
+3733,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+3734,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.7
+3735,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.4
+3736,"Segment 3",3,1,"Annually",0,0,0,"No",3.1
+3737,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+3738,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.9
+3739,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+3740,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+3741,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3742,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.2
+3743,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.4
+3744,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.6
+3745,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.7
+3746,"Segment 2",2,12,"Monthly",0,0,0,"No",4.3
+3747,"Segment 4",4,12,"Monthly",0,0,0,"No",2.6
+3748,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+3749,"Segment 1",1,1,"Annually",0,0,0,"No",3.9
+3750,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.9
+3751,"Segment 3",3,12,"Monthly",0,0,0,"No",3.1
+3752,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+3753,"Segment 1",1,52,"Weekly",0,0,0,"No",4.1
+3754,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.2
+3755,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+3756,"Segment 4",4,12,"Monthly",0,0,0,"No",3.4
+3757,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.8
+3758,"Segment 2",2,52,"Weekly",0,0,0,"No",4.5
+3759,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.7
+3760,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+3761,"Segment 4",4,52,"Weekly",0,0,0,"No",3.1
+3762,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",2.8
+3763,"Segment 4",4,1,"Annually",0,0,0,"No",2.9
+3764,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.5
+3765,"Segment 2",2,12,"Monthly",0,0,0,"No",3.5
+3766,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.3
+3767,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+3768,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.1
+3769,"Segment 2",2,4,"Quarterly",0,0,0,"No",4
+3770,"Segment 4",4,1,"Annually",0,0,0,"No",3.6
+3771,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+3772,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",2.6
+3773,"Segment 2",2,1,"Annually",0,0,0,"No",3.1
+3774,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+3775,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.9
+3776,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+3777,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.1
+3778,"Segment 1",1,52,"Weekly",0,0,0,"No",4.3
+3779,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+3780,"Segment 4",4,1,"Annually",0,0,0,"No",4
+3781,"Segment 4",4,4,"Quarterly",0,0,0,"No",4.1
+3782,"Segment 4",4,26,"Fortnightly",0,0,0,"No",3.7
+3783,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.8
+3784,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.2
+3785,"Segment 4",4,1,"Annually",0,0,0,"No",4.5
+3786,"Segment 4",4,12,"Monthly",0,0,0,"No",3.8
+3787,"Segment 3",3,52,"Weekly",0,0,0,"No",3.6
+3788,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3.6
+3789,"Segment 3",3,12,"Monthly",0,0,0,"No",3.2
+3790,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.8
+3791,"Segment 1",1,52,"Weekly",0,0,0,"No",4.4
+3792,"Segment 3",3,52,"Weekly",0,0,0,"No",3.7
+3793,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+3794,"Segment 2",2,1,"Annually",0,0,0,"No",4
+3795,"Segment 4",4,52,"Weekly",0,0,0,"No",3.6
+3796,"Segment 3",3,52,"Weekly",0,0,0,"No",2.5
+3797,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3798,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.5
+3799,"Segment 4",4,1,"Annually",0,0,0,"No",3.2
+3800,"Segment 2",2,12,"Monthly",0,0,0,"No",2.6
+3801,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.8
+3802,"Segment 1",1,26,"Fortnightly",0,0,0,"No",5
+3803,"Segment 4",4,12,"Monthly",0,0,0,"No",3.2
+3804,"Segment 3",3,52,"Weekly",0,0,0,"No",3.6
+3805,"Segment 3",3,1,"Annually",0,0,0,"No",2.7
+3806,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.1
+3807,"Segment 3",3,52,"Weekly",0,0,0,"No",3
+3808,"Segment 3",3,1,"Annually",0,0,0,"No",2.9
+3809,"Segment 1",1,NA,"Bi-Weekly",0,0,0,"No",4.7
+3810,"Segment 2",2,1,"Annually",0,0,0,"No",3.7
+3811,"Segment 4",4,12,"Monthly",0,0,0,"No",3.9
+3812,"Segment 2",2,12,"Monthly",0,0,0,"No",4
+3813,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",2.8
+3814,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.1
+3815,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.2
+3816,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.3
+3817,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4.3
+3818,"Segment 4",4,1,"Annually",0,0,0,"No",2.6
+3819,"Segment 2",2,12,"Monthly",0,0,0,"No",3.8
+3820,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.9
+3821,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+3822,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.6
+3823,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.2
+3824,"Segment 2",2,52,"Weekly",0,0,0,"No",3
+3825,"Segment 2",2,4,"Quarterly",0,0,0,"No",4
+3826,"Segment 2",2,26,"Fortnightly",0,0,0,"No",4.1
+3827,"Segment 2",2,1,"Annually",0,0,0,"No",4
+3828,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.1
+3829,"Segment 3",3,52,"Weekly",0,0,0,"No",3.4
+3830,"Segment 2",2,26,"Fortnightly",0,0,0,"No",2.9
+3831,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+3832,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+3833,"Segment 2",2,52,"Weekly",0,0,0,"No",4.8
+3834,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.6
+3835,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+3836,"Segment 2",2,NA,"Bi-Weekly",0,0,0,"No",2.6
+3837,"Segment 4",4,26,"Fortnightly",0,0,0,"No",2.5
+3838,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.8
+3839,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",4.2
+3840,"Segment 2",2,4,"Quarterly",0,0,0,"No",3.9
+3841,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.7
+3842,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+3843,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+3844,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+3845,"Segment 1",1,4,"Quarterly",0,0,0,"No",5
+3846,"Segment 4",4,1,"Annually",0,0,0,"No",4.9
+3847,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4
+3848,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.2
+3849,"Segment 3",3,NA,"Every 3 Months",0,0,0,"No",3
+3850,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+3851,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.4
+3852,"Segment 4",4,1,"Annually",0,0,0,"No",3.9
+3853,"Segment 4",4,52,"Weekly",0,0,0,"No",4
+3854,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4
+3855,"Segment 2",2,1,"Annually",0,0,0,"No",4.2
+3856,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.4
+3857,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.5
+3858,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.1
+3859,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.5
+3860,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3
+3861,"Segment 4",4,1,"Annually",0,0,0,"No",4.4
+3862,"Segment 4",4,12,"Monthly",0,0,0,"No",4.9
+3863,"Segment 2",2,12,"Monthly",0,0,0,"No",2.8
+3864,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+3865,"Segment 4",4,26,"Fortnightly",0,0,0,"No",4.9
+3866,"Segment 1",1,NA,"Every 3 Months",0,0,0,"No",4.2
+3867,"Segment 2",2,26,"Fortnightly",0,0,0,"No",3.3
+3868,"Segment 2",2,12,"Monthly",0,0,0,"No",2.7
+3869,"Segment 3",3,1,"Annually",0,0,0,"No",3.3
+3870,"Segment 3",3,1,"Annually",0,0,0,"No",3.8
+3871,"Segment 2",2,NA,"Every 3 Months",0,0,0,"No",3.2
+3872,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",4.1
+3873,"Segment 4",4,12,"Monthly",0,0,0,"No",4.3
+3874,"Segment 1",1,52,"Weekly",0,0,0,"No",4
+3875,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",3.9
+3876,"Segment 2",2,1,"Annually",0,0,0,"No",3.3
+3877,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+3878,"Segment 4",4,12,"Monthly",0,0,0,"No",4.2
+3879,"Segment 2",2,1,"Annually",0,0,0,"No",3.4
+3880,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.1
+3881,"Segment 2",2,12,"Monthly",0,0,0,"No",3.9
+3882,"Segment 2",2,52,"Weekly",0,0,0,"No",2.8
+3883,"Segment 3",3,26,"Fortnightly",0,0,0,"No",2.6
+3884,"Segment 1",1,26,"Fortnightly",0,0,0,"No",4
+3885,"Segment 1",1,52,"Weekly",0,0,0,"No",4.9
+3886,"Segment 3",3,4,"Quarterly",0,0,0,"No",3.2
+3887,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.9
+3888,"Segment 3",3,4,"Quarterly",0,0,0,"No",2.7
+3889,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.4
+3890,"Segment 4",4,1,"Annually",0,0,0,"No",3.5
+3891,"Segment 3",3,1,"Annually",0,0,0,"No",2.6
+3892,"Segment 1",1,4,"Quarterly",0,0,0,"No",4.7
+3893,"Segment 3",3,26,"Fortnightly",0,0,0,"No",3.5
+3894,"Segment 3",3,NA,"Bi-Weekly",0,0,0,"No",3.3
+3895,"Segment 4",4,NA,"Every 3 Months",0,0,0,"No",3.9
+3896,"Segment 1",1,52,"Weekly",0,0,0,"No",4.2
+3897,"Segment 4",4,NA,"Bi-Weekly",0,0,0,"No",4.5
+3898,"Segment 2",2,4,"Quarterly",0,0,0,"No",2.9
+3899,"Segment 4",4,52,"Weekly",0,0,0,"No",3.8
+3900,"Segment 4",4,4,"Quarterly",0,0,0,"No",3.1

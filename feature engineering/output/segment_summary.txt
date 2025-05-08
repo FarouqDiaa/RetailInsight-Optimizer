@@ -1,0 +1,46 @@
+========================================================
+   RETAIL INSIGHT OPTIMIZER - CUSTOMER SEGMENTATION     
+========================================================
+
+IDENTIFIED CUSTOMER SEGMENTS:
+- Segment 1: 972 customers (24.9%)
+- Segment 2: 996 customers (25.5%)
+- Segment 3: 962 customers (24.7%)
+- Segment 4: 970 customers (24.9%)
+
+SEGMENT CHARACTERISTICS:
+# A tibble: 4 × 12
+  Segment Count   Pct Avg_Age Avg_Previous Discount_Rate Subscription_Rate Value_Score Purchase_Frequency
+  <chr>   <int> <dbl>   <dbl>        <dbl>         <dbl>             <dbl> <lgl>                    <dbl>
+1 Segmen…   972  24.9    31.2         24.7          44.5              27.7 NA                        19.4
+2 Segmen…   996  25.5    56.1         26.5          48.7              31.7 NA                        19.1
+3 Segmen…   962  24.7    32.7         23.1          39.8              23.6 NA                        18.5
+4 Segmen…   970  24.9    55.9         27.1          38.8              24.8 NA                        17.5
+# ℹ 3 more variables: Discount_Sensitivity <dbl>, Digital_Payment <dbl>, Fast_Shipping <dbl>
+
+CATEGORY PREFERENCES BY SEGMENT:
+# A tibble: 4 × 7
+  Segment   Clothing Footwear Outerwear Accessories Small Large
+  <chr>        <dbl>    <dbl>     <dbl>       <dbl> <dbl> <dbl>
+1 Segment 1     45       15.4       7.3        32.3  18.7  36.5
+2 Segment 2     42.9     15.5      10.2        31.4  15.4  39.2
+3 Segment 3     45.9     14.9       7.8        31.4  16.6  37.1
+4 Segment 4     44.4     15.7       7.8        32.1  17.3  39.2
+
+SEASONAL PREFERENCES BY SEGMENT:
+# A tibble: 4 × 5
+  Segment   Winter Spring Summer  Fall
+  <chr>      <dbl>  <dbl>  <dbl> <dbl>
+1 Segment 1   24.1   27.2   25.7  23  
+2 Segment 2   23.7   27     25.2  24.1
+3 Segment 3   27.4   22.7   23    26.9
+4 Segment 4   24.4   25.6   24    26  
+
+SIZE PREFERENCES BY SEGMENT:
+# A tibble: 4 × 4
+  Segment   Small Medium Large
+  <chr>     <dbl>  <dbl> <dbl>
+1 Segment 1  18.7   44.8  36.5
+2 Segment 2  15.4   45.5  39.2
+3 Segment 3  16.6   46.3  37.1
+4 Segment 4  17.3   43.5  39.2
